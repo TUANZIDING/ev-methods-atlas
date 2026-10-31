@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 476" width="1180" height="476" font-family="PingFang SC, 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif">
+<title>抗坏血酸预处理流程</title>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7faf9"/><stop offset="1" stop-color="#eef4f3"/></linearGradient><filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1b4b4e" flood-opacity="0.12"/></filter></defs>
+<rect width="1180" height="476" rx="18" fill="url(#bg)"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#18484b">抗坏血酸预处理流程（KR 10-2159915 实施例）</text>
+<text x="40" y="82" font-size="15" fill="#5c6b70">示意流程图，依据专利实施例 1–3；参数为该专利所述，非通用最优值</text>
+<rect x="40" y="150" width="201" height="190" rx="16" fill="#fff" stroke="#2f8f94" stroke-width="2" filter="url(#sh)"/>
+<rect x="40" y="118" width="201" height="30" rx="15" fill="#2f8f94"/>
+<text x="140" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">0 h</text>
+<circle cx="66" cy="180" r="15" fill="#2f8f94"/><text x="66" y="186" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">1</text>
+<text x="90" y="186" font-size="17" font-weight="700" fill="#18484b">接种</text>
+<text x="58" y="220" font-size="13.5" fill="#253338">人脂肪间充质干细胞</text>
+<text x="58" y="246" font-size="13.5" fill="#253338">α-MEM + 10% FBS</text>
+<text x="58" y="272" font-size="13.5" fill="#253338">6000 细胞/cm²</text>
+<path d="M245 240 l15 8 l-15 8 z" fill="#2f8f94"/>
+<rect x="265" y="150" width="201" height="190" rx="16" fill="#fff" stroke="#d98b3a" stroke-width="2" filter="url(#sh)"/>
+<rect x="265" y="118" width="201" height="30" rx="15" fill="#d98b3a"/>
+<text x="365" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">24 h</text>
+<circle cx="291" cy="180" r="15" fill="#d98b3a"/><text x="291" y="186" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">2</text>
+<text x="315" y="186" font-size="17" font-weight="700" fill="#18484b">加抗坏血酸</text>
+<text x="283" y="220" font-size="13.5" fill="#253338">接种 24 h 后加入</text>
+<text x="283" y="246" font-size="13.5" fill="#253338">10 / 30 / 100 µg/mL</text>
+<text x="283" y="272" font-size="13.5" fill="#253338">（对照组不加）</text>
+<path d="M470 240 l15 8 l-15 8 z" fill="#d98b3a"/>
+<rect x="490" y="150" width="201" height="190" rx="16" fill="#fff" stroke="#2f8f94" stroke-width="2" filter="url(#sh)"/>
+<rect x="490" y="118" width="201" height="30" rx="15" fill="#2f8f94"/>
+<text x="590" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">汇合时</text>
+<circle cx="516" cy="180" r="15" fill="#2f8f94"/><text x="516" y="186" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">3</text>
+<text x="540" y="186" font-size="17" font-weight="700" fill="#18484b">换液</text>
+<text x="508" y="220" font-size="13.5" fill="#253338">≥80% 汇合时换</text>
+<text x="508" y="246" font-size="13.5" fill="#253338">无血清 SFM 或</text>
+<text x="508" y="272" font-size="13.5" fill="#253338">2% 去EV FBS（EDM）</text>
+<text x="508" y="298" font-size="13.5" fill="#253338">仍含抗坏血酸</text>
+<path d="M694 240 l15 8 l-15 8 z" fill="#2f8f94"/>
+<rect x="714" y="150" width="201" height="190" rx="16" fill="#fff" stroke="#2f8f94" stroke-width="2" filter="url(#sh)"/>
+<rect x="714" y="118" width="201" height="30" rx="15" fill="#2f8f94"/>
+<text x="815" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">+24 h</text>
+<circle cx="740" cy="180" r="15" fill="#2f8f94"/><text x="740" y="186" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">4</text>
+<text x="764" y="186" font-size="17" font-weight="700" fill="#18484b">收集</text>
+<text x="732" y="220" font-size="13.5" fill="#253338">换液后再培养 24 h</text>
+<text x="732" y="246" font-size="13.5" fill="#253338">收集条件培养基</text>
+<text x="732" y="272" font-size="13.5" fill="#253338">并计数细胞</text>
+<path d="M919 240 l15 8 l-15 8 z" fill="#2f8f94"/>
+<rect x="939" y="150" width="201" height="190" rx="16" fill="#fff" stroke="#1f6f74" stroke-width="2" filter="url(#sh)"/>
+<rect x="939" y="118" width="201" height="30" rx="15" fill="#1f6f74"/>
+<text x="1040" y="138" text-anchor="middle" font-size="14" font-weight="700" fill="#fff">终点</text>
+<circle cx="965" cy="180" r="15" fill="#1f6f74"/><text x="965" y="186" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">5</text>
+<text x="989" y="186" font-size="17" font-weight="700" fill="#18484b">分离与定量</text>
+<text x="957" y="220" font-size="13.5" fill="#253338">差速超离分离 EV</text>
+<text x="957" y="246" font-size="13.5" fill="#253338">NTA + CD63 磁珠流式</text>
+<rect x="40" y="362" width="1100" height="92" rx="14" fill="#fbf4e8" stroke="#e3c79a"/>
+<text x="58" y="396" font-size="15.5" font-weight="700" fill="#8a5a1f">⚠ 读图提醒</text>
+<text x="58" y="420" font-size="13.5" fill="#5b4a33">专利称处理组每 mL 颗粒数约为对照 4 倍以上、CD63 含量显著升高；但未报告重复数、统计、TEM/WB 与每细胞产量。</text>
+<text x="58" y="442" font-size="13.5" fill="#5b4a33">抗坏血酸本身促进 MSC 增殖，部分增量可能来自细胞数增加（推测，待每细胞归一化验证）。</text>
+</svg>
