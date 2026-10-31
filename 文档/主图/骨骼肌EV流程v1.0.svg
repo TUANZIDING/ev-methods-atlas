@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 470" width="1180" height="470" font-family="PingFang SC, 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif">
+<title>骨骼肌组织 EV 分离流程</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7faf9"/><stop offset="1" stop-color="#eef4f3"/></linearGradient>
+  <filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1b4b4e" flood-opacity="0.12"/></filter>
+  <radialGradient id="ev" cx="0.35" cy="0.35" r="0.7"><stop offset="0" stop-color="#e9f6f5"/><stop offset="1" stop-color="#7cc0c2"/></radialGradient>
+</defs>
+<rect width="1180" height="470" rx="18" fill="url(#bg)"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#18484b">骨骼肌组织 EV：从取材到可比较的数据</text>
+<text x="40" y="82" font-size="15" fill="#5c6b70">参考 Crescitelli 2021（Nat Protoc）与 MISEV2023 组织章节；具体参数为经验起点，需预实验优化</text>
+<rect x="40" y="120" width="162" height="150" rx="16" fill="#fff" stroke="#7fb7b9" stroke-width="2" filter="url(#sh)"/>
+<circle cx="70" cy="150" r="16" fill="#7fb7b9"/><text x="70" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">1</text>
+<text x="94" y="157" font-size="18" font-weight="700" fill="#18484b">取材</text>
+<text x="58" y="200" font-size="14" fill="#253338">新鲜肌组织</text>
+<text x="58" y="224" font-size="14" fill="#253338">称重并记录 mg</text>
+<path d="M208 188 l14 7 l-14 7 z" fill="#7fb7b9"/>
+<rect x="228" y="120" width="162" height="150" rx="16" fill="#fff" stroke="#5aa7aa" stroke-width="2" filter="url(#sh)"/>
+<circle cx="258" cy="150" r="16" fill="#5aa7aa"/><text x="258" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">2</text>
+<text x="282" y="157" font-size="18" font-weight="700" fill="#18484b">轻柔解离</text>
+<text x="246" y="200" font-size="14" fill="#253338">剪碎 + 胶原酶/DNase</text>
+<text x="246" y="224" font-size="14" fill="#253338">避免匀浆</text>
+<path d="M395 188 l14 7 l-14 7 z" fill="#5aa7aa"/>
+<rect x="415" y="120" width="162" height="150" rx="16" fill="#fff" stroke="#3f9a9f" stroke-width="2" filter="url(#sh)"/>
+<circle cx="445" cy="150" r="16" fill="#3f9a9f"/><text x="445" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">3</text>
+<text x="469" y="157" font-size="18" font-weight="700" fill="#18484b">逐级离心</text>
+<text x="433" y="200" font-size="14" fill="#253338">300 g → 2,000 g</text>
+<text x="433" y="224" font-size="14" fill="#253338">→ 10,000 g（lEV）</text>
+<path d="M583 188 l14 7 l-14 7 z" fill="#3f9a9f"/>
+<rect x="603" y="120" width="162" height="150" rx="16" fill="#fff" stroke="#2f8a8f" stroke-width="2" filter="url(#sh)"/>
+<circle cx="633" cy="150" r="16" fill="#2f8a8f"/><text x="633" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">4</text>
+<text x="657" y="157" font-size="18" font-weight="700" fill="#18484b">EV 分离</text>
+<text x="621" y="200" font-size="14" fill="#253338">超离或 SEC</text>
+<text x="621" y="224" font-size="14" fill="#253338">+ 密度梯度</text>
+<path d="M771 188 l14 7 l-14 7 z" fill="#2f8a8f"/>
+<rect x="791" y="120" width="162" height="150" rx="16" fill="#fff" stroke="#1f6f74" stroke-width="2" filter="url(#sh)"/>
+<circle cx="821" cy="150" r="16" fill="#1f6f74"/><text x="821" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">5</text>
+<text x="845" y="157" font-size="18" font-weight="700" fill="#18484b">表征</text>
+<text x="809" y="200" font-size="14" fill="#253338">NTA/nFCM + EM</text>
+<text x="809" y="224" font-size="14" fill="#253338">1/2/3 类 + 线粒体/核</text>
+<path d="M958 188 l14 7 l-14 7 z" fill="#1f6f74"/>
+<rect x="978" y="120" width="162" height="150" rx="16" fill="#fff" stroke="#18484b" stroke-width="2" filter="url(#sh)"/>
+<circle cx="1008" cy="150" r="16" fill="#18484b"/><text x="1008" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#fff">6</text>
+<text x="1032" y="157" font-size="18" font-weight="700" fill="#18484b">归一化</text>
+<text x="996" y="200" font-size="14" fill="#253338">颗粒/蛋白</text>
+<text x="996" y="224" font-size="14" fill="#253338">按每 mg 组织</text>
+<rect x="40" y="300" width="259" height="96" rx="14" fill="#fbf4e8" stroke="#e3c79a"/>
+<text x="56" y="332" font-size="15.5" font-weight="700" fill="#8a5a1f">⚠ 细胞碎片 / 线粒体</text>
+<text x="56" y="362" font-size="13" fill="#5b4a33">肌肉线粒体极丰富：查 VDAC、TOMM20</text>
+<rect x="315" y="300" width="259" height="96" rx="14" fill="#fbf4e8" stroke="#e3c79a"/>
+<text x="331" y="332" font-size="15.5" font-weight="700" fill="#8a5a1f">⚠ 照射组</text>
+<text x="331" y="362" font-size="13" fill="#5b4a33">坏死与凋亡增多：EV“增多”可能是碎片</text>
+<rect x="590" y="300" width="259" height="96" rx="14" fill="#fbf4e8" stroke="#e3c79a"/>
+<text x="606" y="332" font-size="15.5" font-weight="700" fill="#8a5a1f">⚠ 新生 vs 成年</text>
+<text x="606" y="362" font-size="13" fill="#5b4a33">组织量、酶解时间一致；按每 mg 归一化</text>
+<rect x="865" y="300" width="259" height="96" rx="14" fill="#fbf4e8" stroke="#e3c79a"/>
+<text x="881" y="332" font-size="15.5" font-weight="700" fill="#8a5a1f">⚠ 来源证明</text>
+<text x="881" y="362" font-size="13" fill="#5b4a33">SGCA 免疫捕获或肌纤维报告小鼠</text>
+<text x="40" y="446" font-size="13" fill="#5c6b70">证据：肌纤维约占循环四跨膜阳性 EV 的 5%（Estrada 2022）；肌源 EV 在肌间质富集（Watanabe 2022）；SGCA+ EV 占血浆 EV 1–5%（Guescini 2015）。</text>
+</svg>

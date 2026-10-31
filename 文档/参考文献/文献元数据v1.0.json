@@ -1,0 +1,5727 @@
+{
+ "welsh2024misev": {
+  "doi": "10.1002/jev2.12404",
+  "title": "Minimal information for studies of extracellular vesicles (MISEV2023): From basic to advanced approaches",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2024,
+  "vol": "13",
+  "issue": "2",
+  "page": "e12404",
+  "authors": [
+   [
+    "Welsh",
+    "Joshua A."
+   ],
+   [
+    "Goberdhan",
+    "Deborah C. I."
+   ],
+   [
+    "O'Driscoll",
+    "Lorraine"
+   ],
+   [
+    "Buzas",
+    "Edit I."
+   ],
+   [
+    "Blenkiron",
+    "Cherie"
+   ],
+   [
+    "Bussolati",
+    "Benedetta"
+   ],
+   [
+    "Cai",
+    "Houjian"
+   ],
+   [
+    "Di Vizio",
+    "Dolores"
+   ],
+   [
+    "Driedonks",
+    "Tom A. P."
+   ],
+   [
+    "Erdbrügger",
+    "Uta"
+   ],
+   [
+    "Falcon‐Perez",
+    "Juan M."
+   ],
+   [
+    "Fu",
+    "Qing‐Ling"
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ],
+   [
+    "Lenassi",
+    "Metka"
+   ],
+   [
+    "Lim",
+    "Sai Kiang"
+   ],
+   [
+    "Mahoney",
+    "Mỹ G."
+   ],
+   [
+    "Mohanty",
+    "Sujata"
+   ],
+   [
+    "Möller",
+    "Andreas"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ],
+   [
+    "Ochiya",
+    "Takahiro"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Torrecilhas",
+    "Ana C."
+   ],
+   [
+    "Zheng",
+    "Lei"
+   ],
+   [
+    "Zijlstra",
+    "Andries"
+   ],
+   [
+    "Abuelreich",
+    "Sarah"
+   ],
+   [
+    "Bagabas",
+    "Reem"
+   ],
+   [
+    "Bergese",
+    "Paolo"
+   ],
+   [
+    "Bridges",
+    "Esther M."
+   ],
+   [
+    "Brucale",
+    "Marco"
+   ],
+   [
+    "Burger",
+    "Dylan"
+   ],
+   [
+    "Carney",
+    "Randy P."
+   ],
+   [
+    "Cocucci",
+    "Emanuele"
+   ],
+   [
+    "Crescitelli",
+    "Rossella"
+   ],
+   [
+    "Hanser",
+    "Edveena"
+   ],
+   [
+    "Harris",
+    "Adrian L."
+   ],
+   [
+    "Haughey",
+    "Norman J."
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Ivanov",
+    "Alexander R."
+   ],
+   [
+    "Jovanovic‐Talisman",
+    "Tijana"
+   ],
+   [
+    "Kruh‐Garcia",
+    "Nicole A."
+   ],
+   [
+    "Ku'ulei‐Lyn Faustino",
+    "Vroniqa"
+   ],
+   [
+    "Kyburz",
+    "Diego"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Lennon",
+    "Kathleen M."
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ],
+   [
+    "Maddox",
+    "Adam L."
+   ],
+   [
+    "Martens‐Uzunova",
+    "Elena S."
+   ],
+   [
+    "Mizenko",
+    "Rachel R."
+   ],
+   [
+    "Newman",
+    "Lauren A."
+   ],
+   [
+    "Ridolfi",
+    "Andrea"
+   ],
+   [
+    "Rohde",
+    "Eva"
+   ],
+   [
+    "Rojalin",
+    "Tatu"
+   ],
+   [
+    "Rowland",
+    "Andrew"
+   ],
+   [
+    "Saftics",
+    "Andras"
+   ],
+   [
+    "Sandau",
+    "Ursula S."
+   ],
+   [
+    "Saugstad",
+    "Julie A."
+   ],
+   [
+    "Shekari",
+    "Faezeh"
+   ],
+   [
+    "Swift",
+    "Simon"
+   ],
+   [
+    "Ter‐Ovanesyan",
+    "Dmitry"
+   ],
+   [
+    "Tosar",
+    "Juan P."
+   ],
+   [
+    "Useckaite",
+    "Zivile"
+   ],
+   [
+    "Valle",
+    "Francesco"
+   ],
+   [
+    "Varga",
+    "Zoltan"
+   ],
+   [
+    "van der Pol",
+    "Edwin"
+   ],
+   [
+    "van Herwijnen",
+    "Martijn J. C."
+   ],
+   [
+    "Wauben",
+    "Marca H. M."
+   ],
+   [
+    "Wehman",
+    "Ann M."
+   ],
+   [
+    "Williams",
+    "Sarah"
+   ],
+   [
+    "Zendrini",
+    "Andrea"
+   ],
+   [
+    "Zimmerman",
+    "Alan J."
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Witwer",
+    "Kenneth W."
+   ]
+  ],
+  "nauth": 73,
+  "pmid": "38326288"
+ },
+ "thery2018misev": {
+  "doi": "10.1080/20013078.2018.1535750",
+  "title": "Minimal information for studies of extracellular vesicles 2018 (MISEV2018): a position statement of the International Society for Extracellular Vesicles and update of the MISEV2014 guidelines",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2018,
+  "vol": "7",
+  "issue": "1",
+  "page": "1535750",
+  "authors": [
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Witwer",
+    "Kenneth W"
+   ],
+   [
+    "Aikawa",
+    "Elena"
+   ],
+   [
+    "Alcaraz",
+    "Maria Jose"
+   ],
+   [
+    "Anderson",
+    "Johnathon D"
+   ],
+   [
+    "Andriantsitohaina",
+    "Ramaroson"
+   ],
+   [
+    "Antoniou",
+    "Anna"
+   ],
+   [
+    "Arab",
+    "Tanina"
+   ],
+   [
+    "Archer",
+    "Fabienne"
+   ],
+   [
+    "Atkin‐Smith",
+    "Georgia K"
+   ],
+   [
+    "Ayre",
+    "D Craig"
+   ],
+   [
+    "Bach",
+    "Jean‐Marie"
+   ],
+   [
+    "Bachurski",
+    "Daniel"
+   ],
+   [
+    "Baharvand",
+    "Hossein"
+   ],
+   [
+    "Balaj",
+    "Leonora"
+   ],
+   [
+    "Baldacchino",
+    "Shawn"
+   ],
+   [
+    "Bauer",
+    "Natalie N"
+   ],
+   [
+    "Baxter",
+    "Amy A"
+   ],
+   [
+    "Bebawy",
+    "Mary"
+   ],
+   [
+    "Beckham",
+    "Carla"
+   ],
+   [
+    "Bedina Zavec",
+    "Apolonija"
+   ],
+   [
+    "Benmoussa",
+    "Abderrahim"
+   ],
+   [
+    "Berardi",
+    "Anna C"
+   ],
+   [
+    "Bergese",
+    "Paolo"
+   ],
+   [
+    "Bielska",
+    "Ewa"
+   ],
+   [
+    "Blenkiron",
+    "Cherie"
+   ],
+   [
+    "Bobis‐Wozowicz",
+    "Sylwia"
+   ],
+   [
+    "Boilard",
+    "Eric"
+   ],
+   [
+    "Boireau",
+    "Wilfrid"
+   ],
+   [
+    "Bongiovanni",
+    "Antonella"
+   ],
+   [
+    "Borràs",
+    "Francesc E"
+   ],
+   [
+    "Bosch",
+    "Steffi"
+   ],
+   [
+    "Boulanger",
+    "Chantal M"
+   ],
+   [
+    "Breakefield",
+    "Xandra"
+   ],
+   [
+    "Breglio",
+    "Andrew M"
+   ],
+   [
+    "Brennan",
+    "Meadhbh Á"
+   ],
+   [
+    "Brigstock",
+    "David R"
+   ],
+   [
+    "Brisson",
+    "Alain"
+   ],
+   [
+    "Broekman",
+    "Marike LD"
+   ],
+   [
+    "Bromberg",
+    "Jacqueline F"
+   ],
+   [
+    "Bryl‐Górecka",
+    "Paulina"
+   ],
+   [
+    "Buch",
+    "Shilpa"
+   ],
+   [
+    "Buck",
+    "Amy H"
+   ],
+   [
+    "Burger",
+    "Dylan"
+   ],
+   [
+    "Busatto",
+    "Sara"
+   ],
+   [
+    "Buschmann",
+    "Dominik"
+   ],
+   [
+    "Bussolati",
+    "Benedetta"
+   ],
+   [
+    "Buzás",
+    "Edit I"
+   ],
+   [
+    "Byrd",
+    "James Bryan"
+   ],
+   [
+    "Camussi",
+    "Giovanni"
+   ],
+   [
+    "Carter",
+    "David RF"
+   ],
+   [
+    "Caruso",
+    "Sarah"
+   ],
+   [
+    "Chamley",
+    "Lawrence W"
+   ],
+   [
+    "Chang",
+    "Yu‐Ting"
+   ],
+   [
+    "Chen",
+    "Chihchen"
+   ],
+   [
+    "Chen",
+    "Shuai"
+   ],
+   [
+    "Cheng",
+    "Lesley"
+   ],
+   [
+    "Chin",
+    "Andrew R"
+   ],
+   [
+    "Clayton",
+    "Aled"
+   ],
+   [
+    "Clerici",
+    "Stefano P"
+   ],
+   [
+    "Cocks",
+    "Alex"
+   ],
+   [
+    "Cocucci",
+    "Emanuele"
+   ],
+   [
+    "Coffey",
+    "Robert J"
+   ],
+   [
+    "Cordeiro‐da‐Silva",
+    "Anabela"
+   ],
+   [
+    "Couch",
+    "Yvonne"
+   ],
+   [
+    "Coumans",
+    "Frank AW"
+   ],
+   [
+    "Coyle",
+    "Beth"
+   ],
+   [
+    "Crescitelli",
+    "Rossella"
+   ],
+   [
+    "Criado",
+    "Miria Ferreira"
+   ],
+   [
+    "D'Souza‐Schorey",
+    "Crislyn"
+   ],
+   [
+    "Das",
+    "Saumya"
+   ],
+   [
+    "Datta Chaudhuri",
+    "Amrita"
+   ],
+   [
+    "de Candia",
+    "Paola"
+   ],
+   [
+    "De Santana",
+    "Eliezer F"
+   ],
+   [
+    "De Wever",
+    "Olivier"
+   ],
+   [
+    "del Portillo",
+    "Hernando A"
+   ],
+   [
+    "Demaret",
+    "Tanguy"
+   ],
+   [
+    "Deville",
+    "Sarah"
+   ],
+   [
+    "Devitt",
+    "Andrew"
+   ],
+   [
+    "Dhondt",
+    "Bert"
+   ],
+   [
+    "Di Vizio",
+    "Dolores"
+   ],
+   [
+    "Dieterich",
+    "Lothar C"
+   ],
+   [
+    "Dolo",
+    "Vincenza"
+   ],
+   [
+    "Dominguez Rubio",
+    "Ana Paula"
+   ],
+   [
+    "Dominici",
+    "Massimo"
+   ],
+   [
+    "Dourado",
+    "Mauricio R"
+   ],
+   [
+    "Driedonks",
+    "Tom AP"
+   ],
+   [
+    "Duarte",
+    "Filipe V"
+   ],
+   [
+    "Duncan",
+    "Heather M"
+   ],
+   [
+    "Eichenberger",
+    "Ramon M"
+   ],
+   [
+    "Ekström",
+    "Karin"
+   ],
+   [
+    "EL Andaloussi",
+    "Samir"
+   ],
+   [
+    "Elie‐Caille",
+    "Celine"
+   ],
+   [
+    "Erdbrügger",
+    "Uta"
+   ],
+   [
+    "Falcón‐Pérez",
+    "Juan M"
+   ],
+   [
+    "Fatima",
+    "Farah"
+   ],
+   [
+    "Fish",
+    "Jason E"
+   ],
+   [
+    "Flores‐Bellver",
+    "Miguel"
+   ],
+   [
+    "Försönits",
+    "András"
+   ],
+   [
+    "Frelet‐Barrand",
+    "Annie"
+   ],
+   [
+    "Fricke",
+    "Fabia"
+   ],
+   [
+    "Fuhrmann",
+    "Gregor"
+   ],
+   [
+    "Gabrielsson",
+    "Susanne"
+   ],
+   [
+    "Gámez‐Valero",
+    "Ana"
+   ],
+   [
+    "Gardiner",
+    "Chris"
+   ],
+   [
+    "Gärtner",
+    "Kathrin"
+   ],
+   [
+    "Gaudin",
+    "Raphael"
+   ],
+   [
+    "Gho",
+    "Yong Song"
+   ],
+   [
+    "Giebel",
+    "Bernd"
+   ],
+   [
+    "Gilbert",
+    "Caroline"
+   ],
+   [
+    "Gimona",
+    "Mario"
+   ],
+   [
+    "Giusti",
+    "Ilaria"
+   ],
+   [
+    "Goberdhan",
+    "Deborah CI"
+   ],
+   [
+    "Görgens",
+    "André"
+   ],
+   [
+    "Gorski",
+    "Sharon M"
+   ],
+   [
+    "Greening",
+    "David W"
+   ],
+   [
+    "Gross",
+    "Julia Christina"
+   ],
+   [
+    "Gualerzi",
+    "Alice"
+   ],
+   [
+    "Gupta",
+    "Gopal N"
+   ],
+   [
+    "Gustafson",
+    "Dakota"
+   ],
+   [
+    "Handberg",
+    "Aase"
+   ],
+   [
+    "Haraszti",
+    "Reka A"
+   ],
+   [
+    "Harrison",
+    "Paul"
+   ],
+   [
+    "Hegyesi",
+    "Hargita"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Hill",
+    "Andrew F"
+   ],
+   [
+    "Hochberg",
+    "Fred H"
+   ],
+   [
+    "Hoffmann",
+    "Karl F"
+   ],
+   [
+    "Holder",
+    "Beth"
+   ],
+   [
+    "Holthofer",
+    "Harry"
+   ],
+   [
+    "Hosseinkhani",
+    "Baharak"
+   ],
+   [
+    "Hu",
+    "Guoku"
+   ],
+   [
+    "Huang",
+    "Yiyao"
+   ],
+   [
+    "Huber",
+    "Veronica"
+   ],
+   [
+    "Hunt",
+    "Stuart"
+   ],
+   [
+    "Ibrahim",
+    "Ahmed Gamal‐Eldin"
+   ],
+   [
+    "Ikezu",
+    "Tsuneya"
+   ],
+   [
+    "Inal",
+    "Jameel M"
+   ],
+   [
+    "Isin",
+    "Mustafa"
+   ],
+   [
+    "Ivanova",
+    "Alena"
+   ],
+   [
+    "Jackson",
+    "Hannah K"
+   ],
+   [
+    "Jacobsen",
+    "Soren"
+   ],
+   [
+    "Jay",
+    "Steven M"
+   ],
+   [
+    "Jayachandran",
+    "Muthuvel"
+   ],
+   [
+    "Jenster",
+    "Guido"
+   ],
+   [
+    "Jiang",
+    "Lanzhou"
+   ],
+   [
+    "Johnson",
+    "Suzanne M"
+   ],
+   [
+    "Jones",
+    "Jennifer C"
+   ],
+   [
+    "Jong",
+    "Ambrose"
+   ],
+   [
+    "Jovanovic‐Talisman",
+    "Tijana"
+   ],
+   [
+    "Jung",
+    "Stephanie"
+   ],
+   [
+    "Kalluri",
+    "Raghu"
+   ],
+   [
+    "Kano",
+    "Shin‐ichi"
+   ],
+   [
+    "Kaur",
+    "Sukhbir"
+   ],
+   [
+    "Kawamura",
+    "Yumi"
+   ],
+   [
+    "Keller",
+    "Evan T"
+   ],
+   [
+    "Khamari",
+    "Delaram"
+   ],
+   [
+    "Khomyakova",
+    "Elena"
+   ],
+   [
+    "Khvorova",
+    "Anastasia"
+   ],
+   [
+    "Kierulf",
+    "Peter"
+   ],
+   [
+    "Kim",
+    "Kwang Pyo"
+   ],
+   [
+    "Kislinger",
+    "Thomas"
+   ],
+   [
+    "Klingeborn",
+    "Mikael"
+   ],
+   [
+    "Klinke",
+    "David J"
+   ],
+   [
+    "Kornek",
+    "Miroslaw"
+   ],
+   [
+    "Kosanović",
+    "Maja M"
+   ],
+   [
+    "Kovács",
+    "Árpád Ferenc"
+   ],
+   [
+    "Krämer‐Albers",
+    "Eva‐Maria"
+   ],
+   [
+    "Krasemann",
+    "Susanne"
+   ],
+   [
+    "Krause",
+    "Mirja"
+   ],
+   [
+    "Kurochkin",
+    "Igor V"
+   ],
+   [
+    "Kusuma",
+    "Gina D"
+   ],
+   [
+    "Kuypers",
+    "Sören"
+   ],
+   [
+    "Laitinen",
+    "Saara"
+   ],
+   [
+    "Langevin",
+    "Scott M"
+   ],
+   [
+    "Languino",
+    "Lucia R"
+   ],
+   [
+    "Lannigan",
+    "Joanne"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Laurent",
+    "Louise C"
+   ],
+   [
+    "Lavieu",
+    "Gregory"
+   ],
+   [
+    "Lázaro‐Ibáñez",
+    "Elisa"
+   ],
+   [
+    "Le Lay",
+    "Soazig"
+   ],
+   [
+    "Lee",
+    "Myung‐Shin"
+   ],
+   [
+    "Lee",
+    "Yi Xin Fiona"
+   ],
+   [
+    "Lemos",
+    "Debora S"
+   ],
+   [
+    "Lenassi",
+    "Metka"
+   ],
+   [
+    "Leszczynska",
+    "Aleksandra"
+   ],
+   [
+    "Li",
+    "Isaac TS"
+   ],
+   [
+    "Liao",
+    "Ke"
+   ],
+   [
+    "Libregts",
+    "Sten F"
+   ],
+   [
+    "Ligeti",
+    "Erzsebet"
+   ],
+   [
+    "Lim",
+    "Rebecca"
+   ],
+   [
+    "Lim",
+    "Sai Kiang"
+   ],
+   [
+    "Linē",
+    "Aija"
+   ],
+   [
+    "Linnemannstöns",
+    "Karen"
+   ],
+   [
+    "Llorente",
+    "Alicia"
+   ],
+   [
+    "Lombard",
+    "Catherine A"
+   ],
+   [
+    "Lorenowicz",
+    "Magdalena J"
+   ],
+   [
+    "Lörincz",
+    "Ákos M"
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ],
+   [
+    "Lovett",
+    "Jason"
+   ],
+   [
+    "Lowry",
+    "Michelle C"
+   ],
+   [
+    "Loyer",
+    "Xavier"
+   ],
+   [
+    "Lu",
+    "Quan"
+   ],
+   [
+    "Lukomska",
+    "Barbara"
+   ],
+   [
+    "Lunavat",
+    "Taral R"
+   ],
+   [
+    "Maas",
+    "Sybren LN"
+   ],
+   [
+    "Malhi",
+    "Harmeet"
+   ],
+   [
+    "Marcilla",
+    "Antonio"
+   ],
+   [
+    "Mariani",
+    "Jacopo"
+   ],
+   [
+    "Mariscal",
+    "Javier"
+   ],
+   [
+    "Martens‐Uzunova",
+    "Elena S"
+   ],
+   [
+    "Martin‐Jaular",
+    "Lorena"
+   ],
+   [
+    "Martinez",
+    "M Carmen"
+   ],
+   [
+    "Martins",
+    "Vilma Regina"
+   ],
+   [
+    "Mathieu",
+    "Mathilde"
+   ],
+   [
+    "Mathivanan",
+    "Suresh"
+   ],
+   [
+    "Maugeri",
+    "Marco"
+   ],
+   [
+    "McGinnis",
+    "Lynda K"
+   ],
+   [
+    "McVey",
+    "Mark J"
+   ],
+   [
+    "Meckes",
+    "David G"
+   ],
+   [
+    "Meehan",
+    "Katie L"
+   ],
+   [
+    "Mertens",
+    "Inge"
+   ],
+   [
+    "Minciacchi",
+    "Valentina R"
+   ],
+   [
+    "Möller",
+    "Andreas"
+   ],
+   [
+    "Møller Jørgensen",
+    "Malene"
+   ],
+   [
+    "Morales‐Kastresana",
+    "Aizea"
+   ],
+   [
+    "Morhayim",
+    "Jess"
+   ],
+   [
+    "Mullier",
+    "François"
+   ],
+   [
+    "Muraca",
+    "Maurizio"
+   ],
+   [
+    "Musante",
+    "Luca"
+   ],
+   [
+    "Mussack",
+    "Veronika"
+   ],
+   [
+    "Muth",
+    "Dillon C"
+   ],
+   [
+    "Myburgh",
+    "Kathryn H"
+   ],
+   [
+    "Najrana",
+    "Tanbir"
+   ],
+   [
+    "Nawaz",
+    "Muhammad"
+   ],
+   [
+    "Nazarenko",
+    "Irina"
+   ],
+   [
+    "Nejsum",
+    "Peter"
+   ],
+   [
+    "Neri",
+    "Christian"
+   ],
+   [
+    "Neri",
+    "Tommaso"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ],
+   [
+    "Nimrichter",
+    "Leonardo"
+   ],
+   [
+    "Nolan",
+    "John P"
+   ],
+   [
+    "Nolte‐'t Hoen",
+    "Esther NM"
+   ],
+   [
+    "Noren Hooten",
+    "Nicole"
+   ],
+   [
+    "O'Driscoll",
+    "Lorraine"
+   ],
+   [
+    "O'Grady",
+    "Tina"
+   ],
+   [
+    "O'Loghlen",
+    "Ana"
+   ],
+   [
+    "Ochiya",
+    "Takahiro"
+   ],
+   [
+    "Olivier",
+    "Martin"
+   ],
+   [
+    "Ortiz",
+    "Alberto"
+   ],
+   [
+    "Ortiz",
+    "Luis A"
+   ],
+   [
+    "Osteikoetxea",
+    "Xabier"
+   ],
+   [
+    "Østergaard",
+    "Ole"
+   ],
+   [
+    "Ostrowski",
+    "Matias"
+   ],
+   [
+    "Park",
+    "Jaesung"
+   ],
+   [
+    "Pegtel",
+    "D. Michiel"
+   ],
+   [
+    "Peinado",
+    "Hector"
+   ],
+   [
+    "Perut",
+    "Francesca"
+   ],
+   [
+    "Pfaffl",
+    "Michael W"
+   ],
+   [
+    "Phinney",
+    "Donald G"
+   ],
+   [
+    "Pieters",
+    "Bartijn CH"
+   ],
+   [
+    "Pink",
+    "Ryan C"
+   ],
+   [
+    "Pisetsky",
+    "David S"
+   ],
+   [
+    "Pogge von Strandmann",
+    "Elke"
+   ],
+   [
+    "Polakovicova",
+    "Iva"
+   ],
+   [
+    "Poon",
+    "Ivan KH"
+   ],
+   [
+    "Powell",
+    "Bonita H"
+   ],
+   [
+    "Prada",
+    "Ilaria"
+   ],
+   [
+    "Pulliam",
+    "Lynn"
+   ],
+   [
+    "Quesenberry",
+    "Peter"
+   ],
+   [
+    "Radeghieri",
+    "Annalisa"
+   ],
+   [
+    "Raffai",
+    "Robert L"
+   ],
+   [
+    "Raimondo",
+    "Stefania"
+   ],
+   [
+    "Rak",
+    "Janusz"
+   ],
+   [
+    "Ramirez",
+    "Marcel I"
+   ],
+   [
+    "Raposo",
+    "Graça"
+   ],
+   [
+    "Rayyan",
+    "Morsi S"
+   ],
+   [
+    "Regev‐Rudzki",
+    "Neta"
+   ],
+   [
+    "Ricklefs",
+    "Franz L"
+   ],
+   [
+    "Robbins",
+    "Paul D"
+   ],
+   [
+    "Roberts",
+    "David D"
+   ],
+   [
+    "Rodrigues",
+    "Silvia C"
+   ],
+   [
+    "Rohde",
+    "Eva"
+   ],
+   [
+    "Rome",
+    "Sophie"
+   ],
+   [
+    "Rouschop",
+    "Kasper MA"
+   ],
+   [
+    "Rughetti",
+    "Aurelia"
+   ],
+   [
+    "Russell",
+    "Ashley E"
+   ],
+   [
+    "Saá",
+    "Paula"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Salas‐Huenuleo",
+    "Edison"
+   ],
+   [
+    "Sánchez",
+    "Catherine"
+   ],
+   [
+    "Saugstad",
+    "Julie A"
+   ],
+   [
+    "Saul",
+    "Meike J"
+   ],
+   [
+    "Schiffelers",
+    "Raymond M"
+   ],
+   [
+    "Schneider",
+    "Raphael"
+   ],
+   [
+    "Schøyen",
+    "Tine Hiorth"
+   ],
+   [
+    "Scott",
+    "Aaron"
+   ],
+   [
+    "Shahaj",
+    "Eriomina"
+   ],
+   [
+    "Sharma",
+    "Shivani"
+   ],
+   [
+    "Shatnyeva",
+    "Olga"
+   ],
+   [
+    "Shekari",
+    "Faezeh"
+   ],
+   [
+    "Shelke",
+    "Ganesh Vilas"
+   ],
+   [
+    "Shetty",
+    "Ashok K"
+   ],
+   [
+    "Shiba",
+    "Kiyotaka"
+   ],
+   [
+    "Siljander",
+    "Pia R‐M"
+   ],
+   [
+    "Silva",
+    "Andreia M"
+   ],
+   [
+    "Skowronek",
+    "Agata"
+   ],
+   [
+    "Snyder",
+    "Orman L"
+   ],
+   [
+    "Soares",
+    "Rodrigo Pedro"
+   ],
+   [
+    "Sódar",
+    "Barbara W"
+   ],
+   [
+    "Soekmadji",
+    "Carolina"
+   ],
+   [
+    "Sotillo",
+    "Javier"
+   ],
+   [
+    "Stahl",
+    "Philip D"
+   ],
+   [
+    "Stoorvogel",
+    "Willem"
+   ],
+   [
+    "Stott",
+    "Shannon L"
+   ],
+   [
+    "Strasser",
+    "Erwin F"
+   ],
+   [
+    "Swift",
+    "Simon"
+   ],
+   [
+    "Tahara",
+    "Hidetoshi"
+   ],
+   [
+    "Tewari",
+    "Muneesh"
+   ],
+   [
+    "Timms",
+    "Kate"
+   ],
+   [
+    "Tiwari",
+    "Swasti"
+   ],
+   [
+    "Tixeira",
+    "Rochelle"
+   ],
+   [
+    "Tkach",
+    "Mercedes"
+   ],
+   [
+    "Toh",
+    "Wei Seong"
+   ],
+   [
+    "Tomasini",
+    "Richard"
+   ],
+   [
+    "Torrecilhas",
+    "Ana Claudia"
+   ],
+   [
+    "Tosar",
+    "Juan Pablo"
+   ],
+   [
+    "Toxavidis",
+    "Vasilis"
+   ],
+   [
+    "Urbanelli",
+    "Lorena"
+   ],
+   [
+    "Vader",
+    "Pieter"
+   ],
+   [
+    "van Balkom",
+    "Bas WM"
+   ],
+   [
+    "van der Grein",
+    "Susanne G"
+   ],
+   [
+    "Van Deun",
+    "Jan"
+   ],
+   [
+    "van Herwijnen",
+    "Martijn JC"
+   ],
+   [
+    "Van Keuren‐Jensen",
+    "Kendall"
+   ],
+   [
+    "van Niel",
+    "Guillaume"
+   ],
+   [
+    "van Royen",
+    "Martin E"
+   ],
+   [
+    "van Wijnen",
+    "Andre J"
+   ],
+   [
+    "Vasconcelos",
+    "M Helena"
+   ],
+   [
+    "Vechetti",
+    "Ivan J"
+   ],
+   [
+    "Veit",
+    "Tiago D"
+   ],
+   [
+    "Vella",
+    "Laura J"
+   ],
+   [
+    "Velot",
+    "Émilie"
+   ],
+   [
+    "Verweij",
+    "Frederik J"
+   ],
+   [
+    "Vestad",
+    "Beate"
+   ],
+   [
+    "Viñas",
+    "Jose L"
+   ],
+   [
+    "Visnovitz",
+    "Tamás"
+   ],
+   [
+    "Vukman",
+    "Krisztina V"
+   ],
+   [
+    "Wahlgren",
+    "Jessica"
+   ],
+   [
+    "Watson",
+    "Dionysios C"
+   ],
+   [
+    "Wauben",
+    "Marca HM"
+   ],
+   [
+    "Weaver",
+    "Alissa"
+   ],
+   [
+    "Webber",
+    "Jason P"
+   ],
+   [
+    "Weber",
+    "Viktoria"
+   ],
+   [
+    "Wehman",
+    "Ann M"
+   ],
+   [
+    "Weiss",
+    "Daniel J"
+   ],
+   [
+    "Welsh",
+    "Joshua A"
+   ],
+   [
+    "Wendt",
+    "Sebastian"
+   ],
+   [
+    "Wheelock",
+    "Asa M"
+   ],
+   [
+    "Wiener",
+    "Zoltán"
+   ],
+   [
+    "Witte",
+    "Leonie"
+   ],
+   [
+    "Wolfram",
+    "Joy"
+   ],
+   [
+    "Xagorari",
+    "Angeliki"
+   ],
+   [
+    "Xander",
+    "Patricia"
+   ],
+   [
+    "Xu",
+    "Jing"
+   ],
+   [
+    "Yan",
+    "Xiaomei"
+   ],
+   [
+    "Yáñez‐Mó",
+    "María"
+   ],
+   [
+    "Yin",
+    "Hang"
+   ],
+   [
+    "Yuana",
+    "Yuana"
+   ],
+   [
+    "Zappulli",
+    "Valentina"
+   ],
+   [
+    "Zarubova",
+    "Jana"
+   ],
+   [
+    "Žėkas",
+    "Vytautas"
+   ],
+   [
+    "Zhang",
+    "Jian‐ye"
+   ],
+   [
+    "Zhao",
+    "Zezhou"
+   ],
+   [
+    "Zheng",
+    "Lei"
+   ],
+   [
+    "Zheutlin",
+    "Alexander R"
+   ],
+   [
+    "Zickler",
+    "Antje M"
+   ],
+   [
+    "Zimmermann",
+    "Pascale"
+   ],
+   [
+    "Zivkovic",
+    "Angela M"
+   ],
+   [
+    "Zocco",
+    "Davide"
+   ],
+   [
+    "Zuba‐Surma",
+    "Ewa K"
+   ]
+  ],
+  "nauth": 382,
+  "pmid": "30637094"
+ },
+ "lotvall2014misev": {
+  "doi": "10.3402/jev.v3.26913",
+  "title": "Minimal experimental requirements for definition of extracellular vesicles and their functions: a position statement from the International Society for Extracellular Vesicles",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2014,
+  "vol": "3",
+  "issue": "1",
+  "page": "26913",
+  "authors": [
+   [
+    "Lötvall",
+    "Jan"
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ],
+   [
+    "Hochberg",
+    "Fred"
+   ],
+   [
+    "Buzás",
+    "Edit I."
+   ],
+   [
+    "Di Vizio",
+    "Dolores"
+   ],
+   [
+    "Gardiner",
+    "Christopher"
+   ],
+   [
+    "Gho",
+    "Yong Song"
+   ],
+   [
+    "Kurochkin",
+    "Igor V."
+   ],
+   [
+    "Mathivanan",
+    "Suresh"
+   ],
+   [
+    "Quesenberry",
+    "Peter"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Tahara",
+    "Hidetoshi"
+   ],
+   [
+    "Wauben",
+    "Marca H."
+   ],
+   [
+    "Witwer",
+    "Kenneth W."
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ]
+  ],
+  "nauth": 15,
+  "pmid": "25536934"
+ },
+ "wolf1967": {
+  "doi": "10.1111/j.1365-2141.1967.tb08741.x",
+  "title": "The Nature and Significance of Platelet Products in Human Plasma",
+  "journal": "British Journal of Haematology",
+  "year": 1967,
+  "vol": "13",
+  "issue": "3",
+  "page": "269-288",
+  "authors": [
+   [
+    "Wolf",
+    "Peter"
+   ]
+  ],
+  "nauth": 1,
+  "pmid": "6025241"
+ },
+ "harding1983": {
+  "doi": "10.1083/jcb.97.2.329",
+  "title": "Receptor-mediated endocytosis of transferrin and recycling of the transferrin receptor in rat reticulocytes.",
+  "journal": "The Journal of cell biology",
+  "year": 1983,
+  "vol": "97",
+  "issue": "2",
+  "page": "329-339",
+  "authors": [
+   [
+    "Harding",
+    "C"
+   ],
+   [
+    "Heuser",
+    "J"
+   ],
+   [
+    "Stahl",
+    "P"
+   ]
+  ],
+  "nauth": 3,
+  "pmid": "6309857"
+ },
+ "pan1983": {
+  "doi": "10.1016/0092-8674(83)90040-5",
+  "title": "Fate of the transferrin receptor during maturation of sheep reticulocytes in vitro: Selective externalization of the receptor",
+  "journal": "Cell",
+  "year": 1983,
+  "vol": "33",
+  "issue": "3",
+  "page": "967-978",
+  "authors": [
+   [
+    "Pan",
+    "Bin-Tao"
+   ],
+   [
+    "Johnstone",
+    "Rose M."
+   ]
+  ],
+  "nauth": 2,
+  "pmid": "6307529"
+ },
+ "pan1985": {
+  "doi": "10.1083/jcb.101.3.942",
+  "title": "Electron microscopic evidence for externalization of the transferrin receptor in vesicular form in sheep reticulocytes.",
+  "journal": "The Journal of cell biology",
+  "year": 1985,
+  "vol": "101",
+  "issue": "3",
+  "page": "942-948",
+  "authors": [
+   [
+    "Pan",
+    "B T"
+   ],
+   [
+    "Teng",
+    "K"
+   ],
+   [
+    "Wu",
+    "C"
+   ],
+   [
+    "Adam",
+    "M"
+   ],
+   [
+    "Johnstone",
+    "R M"
+   ]
+  ],
+  "nauth": 5,
+  "pmid": "2993317"
+ },
+ "trams1981": {
+  "doi": "10.1016/0005-2736(81)90512-5",
+  "title": "Exfoliation of membrane ecto-enzymes in the form of micro-vesicles",
+  "journal": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+  "year": 1981,
+  "vol": "645",
+  "issue": "1",
+  "page": "63-70",
+  "authors": [
+   [
+    "Trams",
+    "Eberhard G."
+   ],
+   [
+    "Lauter",
+    "Carl J."
+   ],
+   [
+    "Norman Salem",
+    "Jr."
+   ],
+   [
+    "Heine",
+    "Ursula"
+   ]
+  ],
+  "nauth": 4,
+  "pmid": "6266476"
+ },
+ "raposo1996": {
+  "doi": "10.1084/jem.183.3.1161",
+  "title": "B lymphocytes secrete antigen-presenting vesicles.",
+  "journal": "The Journal of experimental medicine",
+  "year": 1996,
+  "vol": "183",
+  "issue": "3",
+  "page": "1161-1172",
+  "authors": [
+   [
+    "Raposo",
+    "G"
+   ],
+   [
+    "Nijman",
+    "H W"
+   ],
+   [
+    "Stoorvogel",
+    "W"
+   ],
+   [
+    "Liejendekker",
+    "R"
+   ],
+   [
+    "Harding",
+    "C V"
+   ],
+   [
+    "Melief",
+    "C J"
+   ],
+   [
+    "Geuze",
+    "H J"
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "8642258"
+ },
+ "zitvogel1998": {
+  "doi": "10.1038/nm0598-594",
+  "title": "Eradication of established murine tumors using a novel cell-free vaccine: dendritic cell derived exosomes",
+  "journal": "Nature Medicine",
+  "year": 1998,
+  "vol": "4",
+  "issue": "5",
+  "page": "594-600",
+  "authors": [
+   [
+    "Zitvogel",
+    "Laurence"
+   ],
+   [
+    "Regnault",
+    "Armelle"
+   ],
+   [
+    "Lozier",
+    "Anne"
+   ],
+   [
+    "Wolfers",
+    "Joseph"
+   ],
+   [
+    "Flament",
+    "Caroline"
+   ],
+   [
+    "Tenza",
+    "Danielle"
+   ],
+   [
+    "Ricciardi-Castagnoli",
+    "Paola"
+   ],
+   [
+    "Raposo",
+    "Graça"
+   ],
+   [
+    "Amigorena",
+    "Sebastian"
+   ]
+  ],
+  "nauth": 9,
+  "pmid": "9585234"
+ },
+ "valadi2007": {
+  "doi": "10.1038/ncb1596",
+  "title": "Exosome-mediated transfer of mRNAs and microRNAs is a novel mechanism of genetic exchange between cells",
+  "journal": "Nature Cell Biology",
+  "year": 2007,
+  "vol": "9",
+  "issue": "6",
+  "page": "654-659",
+  "authors": [
+   [
+    "Valadi",
+    "Hadi"
+   ],
+   [
+    "Ekström",
+    "Karin"
+   ],
+   [
+    "Bossios",
+    "Apostolos"
+   ],
+   [
+    "Sjöstrand",
+    "Margareta"
+   ],
+   [
+    "Lee",
+    "James J"
+   ],
+   [
+    "Lötvall",
+    "Jan O"
+   ]
+  ],
+  "nauth": 6,
+  "pmid": "17486113"
+ },
+ "skog2008": {
+  "doi": "10.1038/ncb1800",
+  "title": "Glioblastoma microvesicles transport RNA and proteins that promote tumour growth and provide diagnostic biomarkers",
+  "journal": "Nature Cell Biology",
+  "year": 2008,
+  "vol": "10",
+  "issue": "12",
+  "page": "1470-1476",
+  "authors": [
+   [
+    "Skog",
+    "Johan"
+   ],
+   [
+    "Würdinger",
+    "Tom"
+   ],
+   [
+    "van Rijn",
+    "Sjoerd"
+   ],
+   [
+    "Meijer",
+    "Dimphna H."
+   ],
+   [
+    "Gainche",
+    "Laura"
+   ],
+   [
+    "Curry",
+    "William T."
+   ],
+   [
+    "Carter",
+    "Bob S."
+   ],
+   [
+    "Krichevsky",
+    "Anna M."
+   ],
+   [
+    "Breakefield",
+    "Xandra O."
+   ]
+  ],
+  "nauth": 9,
+  "pmid": "19011622"
+ },
+ "kalluri2020": {
+  "doi": "10.1126/science.aau6977",
+  "title": "The biology\n                    <b>,</b>\n                    function\n                    <b>,</b>\n                    and biomedical applications of exosomes",
+  "journal": "Science",
+  "year": 2020,
+  "vol": "367",
+  "issue": "6478",
+  "page": "eaau6977",
+  "authors": [
+   [
+    "Kalluri",
+    "Raghu"
+   ],
+   [
+    "LeBleu",
+    "Valerie S."
+   ]
+  ],
+  "nauth": 2,
+  "pmid": "32029601"
+ },
+ "gould2013": {
+  "doi": "10.3402/jev.v2i0.20389",
+  "title": "As we wait: coping with an imperfect nomenclature for extracellular vesicles",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2013,
+  "vol": "2",
+  "issue": "1",
+  "page": "20389",
+  "authors": [
+   [
+    "Gould",
+    "Stephen J."
+   ],
+   [
+    "Raposo",
+    "Graça"
+   ]
+  ],
+  "nauth": 2,
+  "pmid": "24009890"
+ },
+ "vandeun2017evtrack": {
+  "doi": "10.1038/nmeth.4185",
+  "title": "EV-TRACK: transparent reporting and centralizing knowledge in extracellular vesicle research",
+  "journal": "Nature Methods",
+  "year": 2017,
+  "vol": "14",
+  "issue": "3",
+  "page": "228-232",
+  "authors": [
+   [
+    "Van Deun",
+    "Jan"
+   ],
+   [
+    "Mestdagh",
+    "Pieter"
+   ],
+   [
+    "Agostinis",
+    "Patrizia"
+   ],
+   [
+    "Akay",
+    "Özden"
+   ],
+   [
+    "Anand",
+    "Sushma"
+   ],
+   [
+    "Anckaert",
+    "Jasper"
+   ],
+   [
+    "Martinez",
+    "Zoraida Andreu"
+   ],
+   [
+    "Baetens",
+    "Tine"
+   ],
+   [
+    "Beghein",
+    "Els"
+   ],
+   [
+    "Bertier",
+    "Laurence"
+   ],
+   [
+    "Berx",
+    "Geert"
+   ],
+   [
+    "Boere",
+    "Janneke"
+   ],
+   [
+    "Boukouris",
+    "Stephanie"
+   ],
+   [
+    "Bremer",
+    "Michel"
+   ],
+   [
+    "Buschmann",
+    "Dominik"
+   ],
+   [
+    "Byrd",
+    "James B"
+   ],
+   [
+    "Casert",
+    "Clara"
+   ],
+   [
+    "Cheng",
+    "Lesley"
+   ],
+   [
+    "Cmoch",
+    "Anna"
+   ],
+   [
+    "Daveloose",
+    "Delphine"
+   ],
+   [
+    "De Smedt",
+    "Eva"
+   ],
+   [
+    "Demirsoy",
+    "Seyma"
+   ],
+   [
+    "Depoorter",
+    "Victoria"
+   ],
+   [
+    "Dhondt",
+    "Bert"
+   ],
+   [
+    "Driedonks",
+    "Tom A P"
+   ],
+   [
+    "Dudek",
+    "Aleksandra"
+   ],
+   [
+    "Elsharawy",
+    "Abdou"
+   ],
+   [
+    "Floris",
+    "Ilaria"
+   ],
+   [
+    "Foers",
+    "Andrew D"
+   ],
+   [
+    "Gärtner",
+    "Kathrin"
+   ],
+   [
+    "Garg",
+    "Abhishek D"
+   ],
+   [
+    "Geeurickx",
+    "Edward"
+   ],
+   [
+    "Gettemans",
+    "Jan"
+   ],
+   [
+    "Ghazavi",
+    "Farzaneh"
+   ],
+   [
+    "Giebel",
+    "Bernd"
+   ],
+   [
+    "Kormelink",
+    "Tom Groot"
+   ],
+   [
+    "Hancock",
+    "Grace"
+   ],
+   [
+    "Helsmoortel",
+    "Hetty"
+   ],
+   [
+    "Hill",
+    "Andrew F"
+   ],
+   [
+    "Hyenne",
+    "Vincent"
+   ],
+   [
+    "Kalra",
+    "Hina"
+   ],
+   [
+    "Kim",
+    "David"
+   ],
+   [
+    "Kowal",
+    "Joanna"
+   ],
+   [
+    "Kraemer",
+    "Sandra"
+   ],
+   [
+    "Leidinger",
+    "Petra"
+   ],
+   [
+    "Leonelli",
+    "Carina"
+   ],
+   [
+    "Liang",
+    "Yaxuan"
+   ],
+   [
+    "Lippens",
+    "Lien"
+   ],
+   [
+    "Liu",
+    "Shu"
+   ],
+   [
+    "Lo Cicero",
+    "Alessandra"
+   ],
+   [
+    "Martin",
+    "Shaun"
+   ],
+   [
+    "Mathivanan",
+    "Suresh"
+   ],
+   [
+    "Mathiyalagan",
+    "Prabhu"
+   ],
+   [
+    "Matusek",
+    "Támas"
+   ],
+   [
+    "Milani",
+    "Gloria"
+   ],
+   [
+    "Monguió-Tortajada",
+    "Marta"
+   ],
+   [
+    "Mus",
+    "Liselot M"
+   ],
+   [
+    "Muth",
+    "Dillon C"
+   ],
+   [
+    "Németh",
+    "Andrea"
+   ],
+   [
+    "Nolte-'t Hoen",
+    "Esther N M"
+   ],
+   [
+    "O'Driscoll",
+    "Lorraine"
+   ],
+   [
+    "Palmulli",
+    "Roberta"
+   ],
+   [
+    "Pfaffl",
+    "Michael W"
+   ],
+   [
+    "Primdal-Bengtson",
+    "Bjarke"
+   ],
+   [
+    "Romano",
+    "Erminia"
+   ],
+   [
+    "Rousseau",
+    "Quentin"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Sampaio",
+    "Natalia"
+   ],
+   [
+    "Samuel",
+    "Monisha"
+   ],
+   [
+    "Scicluna",
+    "Benjamin"
+   ],
+   [
+    "Soen",
+    "Bieke"
+   ],
+   [
+    "Steels",
+    "Anneleen"
+   ],
+   [
+    "Swinnen",
+    "Johannes V"
+   ],
+   [
+    "Takatalo",
+    "Maarit"
+   ],
+   [
+    "Thaminy",
+    "Safia"
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Tulkens",
+    "Joeri"
+   ],
+   [
+    "Van Audenhove",
+    "Isabel"
+   ],
+   [
+    "van der Grein",
+    "Susanne"
+   ],
+   [
+    "Van Goethem",
+    "Alan"
+   ],
+   [
+    "van Herwijnen",
+    "Martijn J"
+   ],
+   [
+    "Van Niel",
+    "Guillaume"
+   ],
+   [
+    "Van Roy",
+    "Nadine"
+   ],
+   [
+    "Van Vliet",
+    "Alexander R"
+   ],
+   [
+    "Vandamme",
+    "Niels"
+   ],
+   [
+    "Vanhauwaert",
+    "Suzanne"
+   ],
+   [
+    "Vergauwen",
+    "Glenn"
+   ],
+   [
+    "Verweij",
+    "Frederik"
+   ],
+   [
+    "Wallaert",
+    "Annelynn"
+   ],
+   [
+    "Wauben",
+    "Marca"
+   ],
+   [
+    "Witwer",
+    "Kenneth W"
+   ],
+   [
+    "Zonneveld",
+    "Marijke I"
+   ],
+   [
+    "De Wever",
+    "Olivier"
+   ],
+   [
+    "Vandesompele",
+    "Jo"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ]
+  ],
+  "nauth": 96,
+  "pmid": "28245209"
+ },
+ "welsh2020miflowcyt": {
+  "doi": "10.1080/20013078.2020.1713526",
+  "title": "MIFlowCyt‐EV: a framework for standardized reporting of extracellular vesicle flow cytometry experiments",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2020,
+  "vol": "9",
+  "issue": "1",
+  "page": "1713526",
+  "authors": [
+   [
+    "Welsh",
+    "Joshua A."
+   ],
+   [
+    "Van Der Pol",
+    "Edwin"
+   ],
+   [
+    "Arkesteijn",
+    "Ger J.A."
+   ],
+   [
+    "Bremer",
+    "Michel"
+   ],
+   [
+    "Brisson",
+    "Alain"
+   ],
+   [
+    "Coumans",
+    "Frank"
+   ],
+   [
+    "Dignat‐George",
+    "Françoise"
+   ],
+   [
+    "Duggan",
+    "Erika"
+   ],
+   [
+    "Ghiran",
+    "Ionita"
+   ],
+   [
+    "Giebel",
+    "Bernd"
+   ],
+   [
+    "Görgens",
+    "André"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Lacroix",
+    "Romaric"
+   ],
+   [
+    "Lannigan",
+    "Joanne"
+   ],
+   [
+    "Libregts",
+    "Sten F.W.M."
+   ],
+   [
+    "Lozano‐Andrés",
+    "Estefanía"
+   ],
+   [
+    "Morales‐Kastresana",
+    "Aizea"
+   ],
+   [
+    "Robert",
+    "Stephane"
+   ],
+   [
+    "De Rond",
+    "Leonie"
+   ],
+   [
+    "Tertel",
+    "Tobias"
+   ],
+   [
+    "Tigges",
+    "John"
+   ],
+   [
+    "De Wever",
+    "Olivier"
+   ],
+   [
+    "Yan",
+    "Xiaomei"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ],
+   [
+    "Wauben",
+    "Marca H.M."
+   ],
+   [
+    "Nolan",
+    "John P."
+   ],
+   [
+    "Jones",
+    "Jennifer C."
+   ]
+  ],
+  "nauth": 27,
+  "pmid": "32128070"
+ },
+ "kowal2016": {
+  "doi": "10.1073/pnas.1521230113",
+  "title": "Proteomic comparison defines novel markers to characterize heterogeneous populations of extracellular vesicle subtypes",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2016,
+  "vol": "113",
+  "issue": "8",
+  "page": "",
+  "authors": [
+   [
+    "Kowal",
+    "Joanna"
+   ],
+   [
+    "Arras",
+    "Guillaume"
+   ],
+   [
+    "Colombo",
+    "Marina"
+   ],
+   [
+    "Jouve",
+    "Mabel"
+   ],
+   [
+    "Morath",
+    "Jakob Paul"
+   ],
+   [
+    "Primdal-Bengtson",
+    "Bjarke"
+   ],
+   [
+    "Dingli",
+    "Florent"
+   ],
+   [
+    "Loew",
+    "Damarys"
+   ],
+   [
+    "Tkach",
+    "Mercedes"
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ]
+  ],
+  "nauth": 10,
+  "pmid": "26858453"
+ },
+ "jeppesen2019": {
+  "doi": "10.1016/j.cell.2019.02.029",
+  "title": "Reassessment of Exosome Composition",
+  "journal": "Cell",
+  "year": 2019,
+  "vol": "177",
+  "issue": "2",
+  "page": "428-445.e18",
+  "authors": [
+   [
+    "Jeppesen",
+    "Dennis K."
+   ],
+   [
+    "Fenix",
+    "Aidan M."
+   ],
+   [
+    "Franklin",
+    "Jeffrey L."
+   ],
+   [
+    "Higginbotham",
+    "James N."
+   ],
+   [
+    "Zhang",
+    "Qin"
+   ],
+   [
+    "Zimmerman",
+    "Lisa J."
+   ],
+   [
+    "Liebler",
+    "Daniel C."
+   ],
+   [
+    "Ping",
+    "Jie"
+   ],
+   [
+    "Liu",
+    "Qi"
+   ],
+   [
+    "Evans",
+    "Rachel"
+   ],
+   [
+    "Fissell",
+    "William H."
+   ],
+   [
+    "Patton",
+    "James G."
+   ],
+   [
+    "Rome",
+    "Leonard H."
+   ],
+   [
+    "Burnette",
+    "Dylan T."
+   ],
+   [
+    "Coffey",
+    "Robert J."
+   ]
+  ],
+  "nauth": 15,
+  "pmid": "30951670"
+ },
+ "boing2014": {
+  "doi": "10.3402/jev.v3.23430",
+  "title": "Single‐step isolation of extracellular vesicles by size‐exclusion chromatography",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2014,
+  "vol": "3",
+  "issue": "1",
+  "page": "23430",
+  "authors": [
+   [
+    "Böing",
+    "Anita N."
+   ],
+   [
+    "van der Pol",
+    "Edwin"
+   ],
+   [
+    "Grootemaat",
+    "Anita E."
+   ],
+   [
+    "Coumans",
+    "Frank A. W."
+   ],
+   [
+    "Sturk",
+    "Auguste"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ]
+  ],
+  "nauth": 6,
+  "pmid": "25279113"
+ },
+ "thery2006": {
+  "doi": "10.1002/0471143030.cb0322s30",
+  "title": "Isolation and Characterization of Exosomes from Cell Culture Supernatants and Biological Fluids",
+  "journal": "Current Protocols in Cell Biology",
+  "year": 2006,
+  "vol": "30",
+  "issue": "1",
+  "page": "",
+  "authors": [
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Amigorena",
+    "Sebastian"
+   ],
+   [
+    "Raposo",
+    "Graça"
+   ],
+   [
+    "Clayton",
+    "Aled"
+   ]
+  ],
+  "nauth": 4,
+  "pmid": "18228490"
+ },
+ "lobb2015": {
+  "doi": "10.3402/jev.v4.27031",
+  "title": "Optimized exosome isolation protocol for cell culture supernatant and human plasma",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2015,
+  "vol": "4",
+  "issue": "1",
+  "page": "27031",
+  "authors": [
+   [
+    "Lobb",
+    "Richard J."
+   ],
+   [
+    "Becker",
+    "Melanie"
+   ],
+   [
+    "Wen Wen",
+    "Shu"
+   ],
+   [
+    "Wong",
+    "Christina S. F."
+   ],
+   [
+    "Wiegmans",
+    "Adrian P."
+   ],
+   [
+    "Leimgruber",
+    "Antoine"
+   ],
+   [
+    "Möller",
+    "Andreas"
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "26194179"
+ },
+ "vandeun2014": {
+  "doi": "10.3402/jev.v3.24858",
+  "title": "The impact of disparate isolation methods for extracellular vesicles on downstream RNA profiling",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2014,
+  "vol": "3",
+  "issue": "1",
+  "page": "24858",
+  "authors": [
+   [
+    "Van Deun",
+    "Jan"
+   ],
+   [
+    "Mestdagh",
+    "Pieter"
+   ],
+   [
+    "Sormunen",
+    "Raija"
+   ],
+   [
+    "Cocquyt",
+    "Veronique"
+   ],
+   [
+    "Vermaelen",
+    "Karim"
+   ],
+   [
+    "Vandesompele",
+    "Jo"
+   ],
+   [
+    "Bracke",
+    "Marc"
+   ],
+   [
+    "De Wever",
+    "Olivier"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ]
+  ],
+  "nauth": 9,
+  "pmid": "25317274"
+ },
+ "zhang2018af4": {
+  "doi": "10.1038/s41556-018-0040-4",
+  "title": "Identification of distinct nanoparticles and subsets of extracellular vesicles by asymmetric flow field-flow fractionation",
+  "journal": "Nature Cell Biology",
+  "year": 2018,
+  "vol": "20",
+  "issue": "3",
+  "page": "332-343",
+  "authors": [
+   [
+    "Zhang",
+    "Haiying"
+   ],
+   [
+    "Freitas",
+    "Daniela"
+   ],
+   [
+    "Kim",
+    "Han Sang"
+   ],
+   [
+    "Fabijanic",
+    "Kristina"
+   ],
+   [
+    "Li",
+    "Zhong"
+   ],
+   [
+    "Chen",
+    "Haiyan"
+   ],
+   [
+    "Mark",
+    "Milica Tesic"
+   ],
+   [
+    "Molina",
+    "Henrik"
+   ],
+   [
+    "Martin",
+    "Alberto Benito"
+   ],
+   [
+    "Bojmar",
+    "Linda"
+   ],
+   [
+    "Fang",
+    "Justin"
+   ],
+   [
+    "Rampersaud",
+    "Sham"
+   ],
+   [
+    "Hoshino",
+    "Ayuko"
+   ],
+   [
+    "Matei",
+    "Irina"
+   ],
+   [
+    "Kenific",
+    "Candia M."
+   ],
+   [
+    "Nakajima",
+    "Miho"
+   ],
+   [
+    "Mutvei",
+    "Anders Peter"
+   ],
+   [
+    "Sansone",
+    "Pasquale"
+   ],
+   [
+    "Buehring",
+    "Weston"
+   ],
+   [
+    "Wang",
+    "Huajuan"
+   ],
+   [
+    "Jimenez",
+    "Juan Pablo"
+   ],
+   [
+    "Cohen-Gould",
+    "Leona"
+   ],
+   [
+    "Paknejad",
+    "Navid"
+   ],
+   [
+    "Brendel",
+    "Matthew"
+   ],
+   [
+    "Manova-Todorova",
+    "Katia"
+   ],
+   [
+    "Magalhães",
+    "Ana"
+   ],
+   [
+    "Ferreira",
+    "José Alexandre"
+   ],
+   [
+    "Osório",
+    "Hugo"
+   ],
+   [
+    "Silva",
+    "André M."
+   ],
+   [
+    "Massey",
+    "Ashish"
+   ],
+   [
+    "Cubillos-Ruiz",
+    "Juan R."
+   ],
+   [
+    "Galletti",
+    "Giuseppe"
+   ],
+   [
+    "Giannakakou",
+    "Paraskevi"
+   ],
+   [
+    "Cuervo",
+    "Ana Maria"
+   ],
+   [
+    "Blenis",
+    "John"
+   ],
+   [
+    "Schwartz",
+    "Robert"
+   ],
+   [
+    "Brady",
+    "Mary Sue"
+   ],
+   [
+    "Peinado",
+    "Héctor"
+   ],
+   [
+    "Bromberg",
+    "Jacqueline"
+   ],
+   [
+    "Matsui",
+    "Hiroshi"
+   ],
+   [
+    "Reis",
+    "Celso A."
+   ],
+   [
+    "Lyden",
+    "David"
+   ]
+  ],
+  "nauth": 42,
+  "pmid": "29459780"
+ },
+ "karimi2018": {
+  "doi": "10.1007/s00018-018-2773-4",
+  "title": "Detailed analysis of the plasma extracellular vesicle proteome after separation from lipoproteins",
+  "journal": "Cellular and Molecular Life Sciences",
+  "year": 2018,
+  "vol": "75",
+  "issue": "15",
+  "page": "2873-2886",
+  "authors": [
+   [
+    "Karimi",
+    "Nasibeh"
+   ],
+   [
+    "Cvjetkovic",
+    "Aleksander"
+   ],
+   [
+    "Jang",
+    "Su Chul"
+   ],
+   [
+    "Crescitelli",
+    "Rossella"
+   ],
+   [
+    "Hosseinpour Feizi",
+    "Mohammad Ali"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ]
+  ],
+  "nauth": 8,
+  "pmid": "29441425"
+ },
+ "busatto2018": {
+  "doi": "10.3390/cells7120273",
+  "title": "Tangential Flow Filtration for Highly Efficient Concentration of Extracellular Vesicles from Large Volumes of Fluid",
+  "journal": "Cells",
+  "year": 2018,
+  "vol": "7",
+  "issue": "12",
+  "page": "273",
+  "authors": [
+   [
+    "Busatto",
+    "Sara"
+   ],
+   [
+    "Vilanilam",
+    "George"
+   ],
+   [
+    "Ticer",
+    "Taylor"
+   ],
+   [
+    "Lin",
+    "Wen-Lang"
+   ],
+   [
+    "Dickson",
+    "Dennis W."
+   ],
+   [
+    "Shapiro",
+    "Shane"
+   ],
+   [
+    "Bergese",
+    "Paolo"
+   ],
+   [
+    "Wolfram",
+    "Joy"
+   ]
+  ],
+  "nauth": 8,
+  "pmid": "30558352"
+ },
+ "witwer2013": {
+  "doi": "10.3402/jev.v2i0.20360",
+  "title": "Standardization of sample collection, isolation and analysis methods in extracellular vesicle research",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2013,
+  "vol": "2",
+  "issue": "1",
+  "page": "20360",
+  "authors": [
+   [
+    "Witwer",
+    "Kenneth W."
+   ],
+   [
+    "Buzás",
+    "Edit I."
+   ],
+   [
+    "Bemis",
+    "Lynne T."
+   ],
+   [
+    "Bora",
+    "Adriana"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ],
+   [
+    "Nolte‐‘t Hoen",
+    "Esther N."
+   ],
+   [
+    "Piper",
+    "Melissa G."
+   ],
+   [
+    "Sivaraman",
+    "Sarada"
+   ],
+   [
+    "Skog",
+    "Johan"
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Wauben",
+    "Marca H."
+   ],
+   [
+    "Hochberg",
+    "Fred"
+   ]
+  ],
+  "nauth": 13,
+  "pmid": "24009894"
+ },
+ "clayton2019": {
+  "doi": "10.1080/20013078.2019.1647027",
+  "title": "Considerations towards a roadmap for collection, handling and storage of blood extracellular vesicles",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2019,
+  "vol": "8",
+  "issue": "1",
+  "page": "1647027",
+  "authors": [
+   [
+    "Clayton",
+    "Aled"
+   ],
+   [
+    "Boilard",
+    "Eric"
+   ],
+   [
+    "Buzas",
+    "Edit I"
+   ],
+   [
+    "Cheng",
+    "Lesley"
+   ],
+   [
+    "Falcón‐Perez",
+    "Juan Manual"
+   ],
+   [
+    "Gardiner",
+    "Chris"
+   ],
+   [
+    "Gustafson",
+    "Dakota"
+   ],
+   [
+    "Gualerzi",
+    "Alice"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Hoffman",
+    "Andrew"
+   ],
+   [
+    "Jones",
+    "Jennifer"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Lawson",
+    "Charlotte"
+   ],
+   [
+    "Lenassi",
+    "Metka"
+   ],
+   [
+    "Nazarenko",
+    "Irina"
+   ],
+   [
+    "O'Driscoll",
+    "Lorraine"
+   ],
+   [
+    "Pink",
+    "Ryan"
+   ],
+   [
+    "Siljander",
+    "Pia R‐M"
+   ],
+   [
+    "Soekmadji",
+    "Carolina"
+   ],
+   [
+    "Wauben",
+    "Marca"
+   ],
+   [
+    "Welsh",
+    "Joshua A"
+   ],
+   [
+    "Witwer",
+    "Ken"
+   ],
+   [
+    "Zheng",
+    "Lei"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ]
+  ],
+  "nauth": 24,
+  "pmid": "31489143"
+ },
+ "mol2017": {
+  "doi": "10.1016/j.nano.2017.03.011",
+  "title": "Higher functionality of extracellular vesicles isolated using size-exclusion chromatography compared to ultracentrifugation",
+  "journal": "Nanomedicine: Nanotechnology, Biology and Medicine",
+  "year": 2017,
+  "vol": "13",
+  "issue": "6",
+  "page": "2061-2065",
+  "authors": [
+   [
+    "Mol",
+    "Emma A."
+   ],
+   [
+    "Goumans",
+    "Marie-José"
+   ],
+   [
+    "Doevendans",
+    "Pieter A."
+   ],
+   [
+    "Sluijter",
+    "Joost P.G."
+   ],
+   [
+    "Vader",
+    "Pieter"
+   ]
+  ],
+  "nauth": 5,
+  "pmid": "28365418"
+ },
+ "linares2015": {
+  "doi": "10.3402/jev.v4.29509",
+  "title": "High‐speed centrifugation induces aggregation of extracellular vesicles",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2015,
+  "vol": "4",
+  "issue": "1",
+  "page": "29509",
+  "authors": [
+   [
+    "Linares",
+    "Romain"
+   ],
+   [
+    "Tan",
+    "Sisareuth"
+   ],
+   [
+    "Gounou",
+    "Céline"
+   ],
+   [
+    "Arraud",
+    "Nicolas"
+   ],
+   [
+    "Brisson",
+    "Alain R."
+   ]
+  ],
+  "nauth": 5,
+  "pmid": "26700615"
+ },
+ "vergauwen2017": {
+  "doi": "10.1038/s41598-017-02599-y",
+  "title": "Confounding factors of ultrafiltration and protein analysis in extracellular vesicle research",
+  "journal": "Scientific Reports",
+  "year": 2017,
+  "vol": "7",
+  "issue": "1",
+  "page": "2704",
+  "authors": [
+   [
+    "Vergauwen",
+    "Glenn"
+   ],
+   [
+    "Dhondt",
+    "Bert"
+   ],
+   [
+    "Van Deun",
+    "Jan"
+   ],
+   [
+    "De Smedt",
+    "Eva"
+   ],
+   [
+    "Berx",
+    "Geert"
+   ],
+   [
+    "Timmerman",
+    "Evy"
+   ],
+   [
+    "Gevaert",
+    "Kris"
+   ],
+   [
+    "Miinalainen",
+    "Ilkka"
+   ],
+   [
+    "Cocquyt",
+    "Véronique"
+   ],
+   [
+    "Braems",
+    "Geert"
+   ],
+   [
+    "Van den Broecke",
+    "Rudy"
+   ],
+   [
+    "Denys",
+    "Hannelore"
+   ],
+   [
+    "De Wever",
+    "Olivier"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ]
+  ],
+  "nauth": 14,
+  "pmid": "28577337"
+ },
+ "tian2020": {
+  "doi": "10.1080/20013078.2019.1697028",
+  "title": "Quality and efficiency assessment of six extracellular vesicle isolation methods by nano‐flow cytometry",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2020,
+  "vol": "9",
+  "issue": "1",
+  "page": "1697028",
+  "authors": [
+   [
+    "Tian",
+    "Ye"
+   ],
+   [
+    "Gong",
+    "Manfei"
+   ],
+   [
+    "Hu",
+    "Yunyun"
+   ],
+   [
+    "Liu",
+    "Haisheng"
+   ],
+   [
+    "Zhang",
+    "Wenqiang"
+   ],
+   [
+    "Zhang",
+    "Miaomiao"
+   ],
+   [
+    "Hu",
+    "Xiuxiu"
+   ],
+   [
+    "Aubert",
+    "Dimitri"
+   ],
+   [
+    "Zhu",
+    "Shaobin"
+   ],
+   [
+    "Wu",
+    "Lina"
+   ],
+   [
+    "Yan",
+    "Xiaomei"
+   ]
+  ],
+  "nauth": 11,
+  "pmid": "31839906"
+ },
+ "daaboul2016": {
+  "doi": "10.1038/srep37246",
+  "title": "Digital Detection of Exosomes by Interferometric Imaging",
+  "journal": "Scientific Reports",
+  "year": 2016,
+  "vol": "6",
+  "issue": "1",
+  "page": "37246",
+  "authors": [
+   [
+    "Daaboul",
+    "George G."
+   ],
+   [
+    "Gagni",
+    "Paola"
+   ],
+   [
+    "Benussi",
+    "Luisa"
+   ],
+   [
+    "Bettotti",
+    "Paolo"
+   ],
+   [
+    "Ciani",
+    "Miriam"
+   ],
+   [
+    "Cretich",
+    "Marina"
+   ],
+   [
+    "Freedman",
+    "David S."
+   ],
+   [
+    "Ghidoni",
+    "Roberta"
+   ],
+   [
+    "Ozkumur",
+    "Ayca Yalcin"
+   ],
+   [
+    "Piotto",
+    "Chiara"
+   ],
+   [
+    "Prosperi",
+    "Davide"
+   ],
+   [
+    "Santini",
+    "Benedetta"
+   ],
+   [
+    "Ünlü",
+    "M. Selim"
+   ],
+   [
+    "Chiari",
+    "Marcella"
+   ]
+  ],
+  "nauth": 14,
+  "pmid": "27853258"
+ },
+ "vestad2017": {
+  "doi": "10.1080/20013078.2017.1344087",
+  "title": "Size and concentration analyses of extracellular vesicles by nanoparticle tracking analysis: a variation study",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2017,
+  "vol": "6",
+  "issue": "1",
+  "page": "1344087",
+  "authors": [
+   [
+    "Vestad",
+    "Beate"
+   ],
+   [
+    "Llorente",
+    "Alicia"
+   ],
+   [
+    "Neurauter",
+    "Axl"
+   ],
+   [
+    "Phuyal",
+    "Santosh"
+   ],
+   [
+    "Kierulf",
+    "Bente"
+   ],
+   [
+    "Kierulf",
+    "Peter"
+   ],
+   [
+    "Skotland",
+    "Tore"
+   ],
+   [
+    "Sandvig",
+    "Kirsten"
+   ],
+   [
+    "Haug",
+    "Kari Bente F."
+   ],
+   [
+    "Øvstebø",
+    "Reidun"
+   ]
+  ],
+  "nauth": 10,
+  "pmid": "28804597"
+ },
+ "coumans2017": {
+  "doi": "10.1161/CIRCRESAHA.117.309417",
+  "title": "Methodological Guidelines to Study Extracellular Vesicles",
+  "journal": "Circulation Research",
+  "year": 2017,
+  "vol": "120",
+  "issue": "10",
+  "page": "1632-1648",
+  "authors": [
+   [
+    "Coumans",
+    "Frank A.W."
+   ],
+   [
+    "Brisson",
+    "Alain R."
+   ],
+   [
+    "Buzas",
+    "Edit I."
+   ],
+   [
+    "Dignat-George",
+    "Françoise"
+   ],
+   [
+    "Drees",
+    "Esther E.E."
+   ],
+   [
+    "El-Andaloussi",
+    "Samir"
+   ],
+   [
+    "Emanueli",
+    "Costanza"
+   ],
+   [
+    "Gasecka",
+    "Aleksandra"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ],
+   [
+    "Lacroix",
+    "Romaric"
+   ],
+   [
+    "Lee",
+    "Yi"
+   ],
+   [
+    "van Leeuwen",
+    "Ton G."
+   ],
+   [
+    "Mackman",
+    "Nigel"
+   ],
+   [
+    "Mäger",
+    "Imre"
+   ],
+   [
+    "Nolan",
+    "John P."
+   ],
+   [
+    "van der Pol",
+    "Edwin"
+   ],
+   [
+    "Pegtel",
+    "D. Michiel"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Siljander",
+    "Pia R.M."
+   ],
+   [
+    "Sturk",
+    "Guus"
+   ],
+   [
+    "de Wever",
+    "Olivier"
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ]
+  ],
+  "nauth": 23,
+  "pmid": "28495994"
+ },
+ "crescitelli2013": {
+  "doi": "10.3402/jev.v2i0.20677",
+  "title": "Distinct RNA profiles in subpopulations of extracellular vesicles: apoptotic bodies, microvesicles and exosomes",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2013,
+  "vol": "2",
+  "issue": "1",
+  "page": "20677",
+  "authors": [
+   [
+    "Crescitelli",
+    "Rossella"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Szabó",
+    "Tamas G."
+   ],
+   [
+    "Kittel",
+    "Agnes"
+   ],
+   [
+    "Eldh",
+    "Maria"
+   ],
+   [
+    "Dianzani",
+    "Irma"
+   ],
+   [
+    "Buzás",
+    "Edit I."
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ]
+  ],
+  "nauth": 8,
+  "pmid": "24223256"
+ },
+ "crescitelli2021": {
+  "doi": "10.1038/s41596-020-00466-1",
+  "title": "Isolation and characterization of extracellular vesicle subpopulations from tissues",
+  "journal": "Nature Protocols",
+  "year": 2021,
+  "vol": "16",
+  "issue": "3",
+  "page": "1548-1580",
+  "authors": [
+   [
+    "Crescitelli",
+    "Rossella"
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ]
+  ],
+  "nauth": 3,
+  "pmid": "33495626"
+ },
+ "vella2017": {
+  "doi": "10.1080/20013078.2017.1348885",
+  "title": "A rigorous method to enrich for exosomes from brain tissue",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2017,
+  "vol": "6",
+  "issue": "1",
+  "page": "1348885",
+  "authors": [
+   [
+    "Vella",
+    "Laura J."
+   ],
+   [
+    "Scicluna",
+    "Benjamin J."
+   ],
+   [
+    "Cheng",
+    "Lesley"
+   ],
+   [
+    "Bawden",
+    "Emma G."
+   ],
+   [
+    "Masters",
+    "Colin L."
+   ],
+   [
+    "Ang",
+    "Ching‐Seng"
+   ],
+   [
+    "Willamson",
+    "Nicholas"
+   ],
+   [
+    "McLean",
+    "Catriona"
+   ],
+   [
+    "Barnham",
+    "Kevin J."
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ]
+  ],
+  "nauth": 10,
+  "pmid": "28804598"
+ },
+ "watanabe2022": {
+  "doi": "10.1093/pnasnexus/pgac173",
+  "title": "Skeletal muscle releases extracellular vesicles with distinct protein and microRNA signatures that function in the muscle microenvironment",
+  "journal": "PNAS Nexus",
+  "year": 2022,
+  "vol": "1",
+  "issue": "4",
+  "page": "pgac173",
+  "authors": [
+   [
+    "Watanabe",
+    "Sho"
+   ],
+   [
+    "Sudo",
+    "Yuri"
+   ],
+   [
+    "Makino",
+    "Takumi"
+   ],
+   [
+    "Kimura",
+    "Satoshi"
+   ],
+   [
+    "Tomita",
+    "Kenji"
+   ],
+   [
+    "Noguchi",
+    "Makoto"
+   ],
+   [
+    "Sakurai",
+    "Hidetoshi"
+   ],
+   [
+    "Shimizu",
+    "Makoto"
+   ],
+   [
+    "Takahashi",
+    "Yu"
+   ],
+   [
+    "Sato",
+    "Ryuichiro"
+   ],
+   [
+    "Yamauchi",
+    "Yoshio"
+   ]
+  ],
+  "nauth": 11,
+  "pmid": "36714847"
+ },
+ "estrada2022": {
+  "doi": "10.1152/ajpcell.00580.2020",
+  "title": "Extracellular vesicle secretion is tissue-dependent ex vivo and skeletal muscle myofiber extracellular vesicles reach the circulation in vivo",
+  "journal": "American Journal of Physiology-Cell Physiology",
+  "year": 2022,
+  "vol": "322",
+  "issue": "2",
+  "page": "C246-C259",
+  "authors": [
+   [
+    "Estrada",
+    "Andrea L."
+   ],
+   [
+    "Valenti",
+    "Zackary J."
+   ],
+   [
+    "Hehn",
+    "Gabriella"
+   ],
+   [
+    "Amorese",
+    "Adam J."
+   ],
+   [
+    "Williams",
+    "Nicholas S."
+   ],
+   [
+    "Balestrieri",
+    "Nicholas P."
+   ],
+   [
+    "Deighan",
+    "Clayton"
+   ],
+   [
+    "Allen",
+    "Christopher P."
+   ],
+   [
+    "Spangenburg",
+    "Espen E."
+   ],
+   [
+    "Kruh-Garcia",
+    "Nicole A."
+   ],
+   [
+    "Lark",
+    "Daniel S."
+   ]
+  ],
+  "nauth": 11,
+  "pmid": "34910603"
+ },
+ "fry2017": {
+  "doi": "10.1016/j.stem.2016.09.010",
+  "title": "Myogenic Progenitor Cells Control Extracellular Matrix Production by Fibroblasts during Skeletal Muscle Hypertrophy",
+  "journal": "Cell Stem Cell",
+  "year": 2017,
+  "vol": "20",
+  "issue": "1",
+  "page": "56-69",
+  "authors": [
+   [
+    "Fry",
+    "Christopher S."
+   ],
+   [
+    "Kirby",
+    "Tyler J."
+   ],
+   [
+    "Kosmac",
+    "Kate"
+   ],
+   [
+    "McCarthy",
+    "John J."
+   ],
+   [
+    "Peterson",
+    "Charlotte A."
+   ]
+  ],
+  "nauth": 5,
+  "pmid": "27840022"
+ },
+ "whitham2018": {
+  "doi": "10.1016/j.cmet.2017.12.001",
+  "title": "Extracellular Vesicles Provide a Means for Tissue Crosstalk during Exercise",
+  "journal": "Cell Metabolism",
+  "year": 2018,
+  "vol": "27",
+  "issue": "1",
+  "page": "237-251.e4",
+  "authors": [
+   [
+    "Whitham",
+    "Martin"
+   ],
+   [
+    "Parker",
+    "Benjamin L."
+   ],
+   [
+    "Friedrichsen",
+    "Martin"
+   ],
+   [
+    "Hingst",
+    "Janne R."
+   ],
+   [
+    "Hjorth",
+    "Marit"
+   ],
+   [
+    "Hughes",
+    "William E."
+   ],
+   [
+    "Egan",
+    "Casey L."
+   ],
+   [
+    "Cron",
+    "Lena"
+   ],
+   [
+    "Watt",
+    "Kevin I."
+   ],
+   [
+    "Kuchel",
+    "Rhiannon P."
+   ],
+   [
+    "Jayasooriah",
+    "Navind"
+   ],
+   [
+    "Estevez",
+    "Emma"
+   ],
+   [
+    "Petzold",
+    "Tim"
+   ],
+   [
+    "Suter",
+    "Catherine M."
+   ],
+   [
+    "Gregorevic",
+    "Paul"
+   ],
+   [
+    "Kiens",
+    "Bente"
+   ],
+   [
+    "Richter",
+    "Erik A."
+   ],
+   [
+    "James",
+    "David E."
+   ],
+   [
+    "Wojtaszewski",
+    "Jørgen F.P."
+   ],
+   [
+    "Febbraio",
+    "Mark A."
+   ]
+  ],
+  "nauth": 20,
+  "pmid": "29320704"
+ },
+ "rome2019": {
+  "doi": "10.3389/fphys.2019.00929",
+  "title": "Skeletal Muscle-Released Extracellular Vesicles: State of the Art",
+  "journal": "Frontiers in Physiology",
+  "year": 2019,
+  "vol": "10",
+  "issue": "",
+  "page": "929",
+  "authors": [
+   [
+    "Rome",
+    "Sophie"
+   ],
+   [
+    "Forterre",
+    "Alexis"
+   ],
+   [
+    "Mizgier",
+    "Maria Luisa"
+   ],
+   [
+    "Bouzakri",
+    "Karim"
+   ]
+  ],
+  "nauth": 4,
+  "pmid": "31447684"
+ },
+ "vechetti2021": {
+  "doi": "10.1096/fj.202100242R",
+  "title": "Mechanical overload‐induced muscle‐derived extracellular vesicles promote adipose tissue lipolysis",
+  "journal": "The FASEB Journal",
+  "year": 2021,
+  "vol": "35",
+  "issue": "6",
+  "page": "e21644",
+  "authors": [
+   [
+    "Vechetti",
+    "Ivan J."
+   ],
+   [
+    "Peck",
+    "Bailey D."
+   ],
+   [
+    "Wen",
+    "Yuan"
+   ],
+   [
+    "Walton",
+    "R. Grace"
+   ],
+   [
+    "Valentino",
+    "Taylor R."
+   ],
+   [
+    "Alimov",
+    "Alexander P."
+   ],
+   [
+    "Dungan",
+    "Cory M."
+   ],
+   [
+    "Van Pelt",
+    "Douglas W."
+   ],
+   [
+    "von Walden",
+    "Ferdinand"
+   ],
+   [
+    "Alkner",
+    "Björn"
+   ],
+   [
+    "Peterson",
+    "Charlotte A."
+   ],
+   [
+    "McCarthy",
+    "John J."
+   ]
+  ],
+  "nauth": 12,
+  "pmid": "34033143"
+ },
+ "guescini2015": {
+  "doi": "10.1371/journal.pone.0125094",
+  "title": "Muscle Releases Alpha-Sarcoglycan Positive Extracellular Vesicles Carrying miRNAs in the Bloodstream",
+  "journal": "PLOS ONE",
+  "year": 2015,
+  "vol": "10",
+  "issue": "5",
+  "page": "e0125094",
+  "authors": [
+   [
+    "Guescini",
+    "Michele"
+   ],
+   [
+    "Canonico",
+    "Barbara"
+   ],
+   [
+    "Lucertini",
+    "Francesco"
+   ],
+   [
+    "Maggio",
+    "Serena"
+   ],
+   [
+    "Annibalini",
+    "Giosué"
+   ],
+   [
+    "Barbieri",
+    "Elena"
+   ],
+   [
+    "Luchetti",
+    "Francesca"
+   ],
+   [
+    "Papa",
+    "Stefano"
+   ],
+   [
+    "Stocchi",
+    "Vilberto"
+   ]
+  ],
+  "nauth": 9,
+  "pmid": "25955720"
+ },
+ "mytidou2021": {
+  "doi": "10.1096/fj.201902468RR",
+  "title": "Muscle‐derived exosomes encapsulate myomiRs and are involved in local skeletal muscle tissue communication",
+  "journal": "The FASEB Journal",
+  "year": 2021,
+  "vol": "35",
+  "issue": "2",
+  "page": "e21279",
+  "authors": [
+   [
+    "Mytidou",
+    "Chrystalla"
+   ],
+   [
+    "Koutsoulidou",
+    "Andrie"
+   ],
+   [
+    "Katsioloudi",
+    "Anna"
+   ],
+   [
+    "Prokopi",
+    "Marianna"
+   ],
+   [
+    "Kapnisis",
+    "Konstantinos"
+   ],
+   [
+    "Michailidou",
+    "Kyriaki"
+   ],
+   [
+    "Anayiotos",
+    "Andreas"
+   ],
+   [
+    "Phylactou",
+    "Leonidas A."
+   ]
+  ],
+  "nauth": 8,
+  "pmid": "33484211"
+ },
+ "lacroix2012": {
+  "doi": "10.1111/j.1538-7836.2011.04610.x",
+  "title": "Impact of pre‐analytical parameters on the measurement of circulating microparticles: towards standardization of protocol",
+  "journal": "Journal of Thrombosis and Haemostasis",
+  "year": 2012,
+  "vol": "10",
+  "issue": "3",
+  "page": "437-446",
+  "authors": [
+   [
+    "LACROIX",
+    "R."
+   ],
+   [
+    "JUDICONE",
+    "C."
+   ],
+   [
+    "PONCELET",
+    "P."
+   ],
+   [
+    "ROBERT",
+    "S."
+   ],
+   [
+    "ARNAUD",
+    "L."
+   ],
+   [
+    "SAMPOL",
+    "J."
+   ],
+   [
+    "DIGNAT‐GEORGE",
+    "F."
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "22212198"
+ },
+ "gamezvalero2016": {
+  "doi": "10.1038/srep33641",
+  "title": "Size-Exclusion Chromatography-based isolation minimally alters Extracellular Vesicles’ characteristics compared to precipitating agents",
+  "journal": "Scientific Reports",
+  "year": 2016,
+  "vol": "6",
+  "issue": "1",
+  "page": "33641",
+  "authors": [
+   [
+    "Gámez-Valero",
+    "Ana"
+   ],
+   [
+    "Monguió-Tortajada",
+    "Marta"
+   ],
+   [
+    "Carreras-Planella",
+    "Laura"
+   ],
+   [
+    "Franquesa",
+    "Marcel·la"
+   ],
+   [
+    "Beyer",
+    "Katrin"
+   ],
+   [
+    "Borràs",
+    "Francesc E."
+   ]
+  ],
+  "nauth": 6,
+  "pmid": "27640641"
+ },
+ "sodar2016": {
+  "doi": "10.1038/srep24316",
+  "title": "Low-density lipoprotein mimics blood plasma-derived exosomes and microvesicles during isolation and detection",
+  "journal": "Scientific Reports",
+  "year": 2016,
+  "vol": "6",
+  "issue": "1",
+  "page": "24316",
+  "authors": [
+   [
+    "Sódar",
+    "Barbara W"
+   ],
+   [
+    "Kittel",
+    "Ágnes"
+   ],
+   [
+    "Pálóczi",
+    "Krisztina"
+   ],
+   [
+    "Vukman",
+    "Krisztina V"
+   ],
+   [
+    "Osteikoetxea",
+    "Xabier"
+   ],
+   [
+    "Szabó-Taylor",
+    "Katalin"
+   ],
+   [
+    "Németh",
+    "Andrea"
+   ],
+   [
+    "Sperlágh",
+    "Beáta"
+   ],
+   [
+    "Baranyai",
+    "Tamás"
+   ],
+   [
+    "Giricz",
+    "Zoltán"
+   ],
+   [
+    "Wiener",
+    "Zoltán"
+   ],
+   [
+    "Turiák",
+    "Lilla"
+   ],
+   [
+    "Drahos",
+    "László"
+   ],
+   [
+    "Pállinger",
+    "Éva"
+   ],
+   [
+    "Vékey",
+    "Károly"
+   ],
+   [
+    "Ferdinandy",
+    "Péter"
+   ],
+   [
+    "Falus",
+    "András"
+   ],
+   [
+    "Buzás",
+    "Edit Irén"
+   ]
+  ],
+  "nauth": 18,
+  "pmid": "27087061"
+ },
+ "russell2019": {
+  "doi": "10.1080/20013078.2019.1684862",
+  "title": "Biological membranes in EV biogenesis, stability, uptake, and cargo transfer: an ISEV position paper arising from the ISEV membranes and EVs workshop",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2019,
+  "vol": "8",
+  "issue": "1",
+  "page": "1684862",
+  "authors": [
+   [
+    "Russell",
+    "Ashley E."
+   ],
+   [
+    "Sneider",
+    "Alexandra"
+   ],
+   [
+    "Witwer",
+    "Kenneth W."
+   ],
+   [
+    "Bergese",
+    "Paolo"
+   ],
+   [
+    "Bhattacharyya",
+    "Suvendra N."
+   ],
+   [
+    "Cocks",
+    "Alexander"
+   ],
+   [
+    "Cocucci",
+    "Emanuele"
+   ],
+   [
+    "Erdbrügger",
+    "Uta"
+   ],
+   [
+    "Falcon‐Perez",
+    "Juan M."
+   ],
+   [
+    "Freeman",
+    "David W."
+   ],
+   [
+    "Gallagher",
+    "Thomas M."
+   ],
+   [
+    "Hu",
+    "Shuaishuai"
+   ],
+   [
+    "Huang",
+    "Yiyao"
+   ],
+   [
+    "Jay",
+    "Steven M."
+   ],
+   [
+    "Kano",
+    "Shin‐ichi"
+   ],
+   [
+    "Lavieu",
+    "Gregory"
+   ],
+   [
+    "Leszczynska",
+    "Aleksandra"
+   ],
+   [
+    "Llorente",
+    "Alicia M."
+   ],
+   [
+    "Lu",
+    "Quan"
+   ],
+   [
+    "Mahairaki",
+    "Vasiliki"
+   ],
+   [
+    "Muth",
+    "Dillon C."
+   ],
+   [
+    "Hooten",
+    "Nicole Noren"
+   ],
+   [
+    "Ostrowski",
+    "Matias"
+   ],
+   [
+    "Prada",
+    "Ilaria"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Schøyen",
+    "Tine Hiorth"
+   ],
+   [
+    "Sheng",
+    "Lifu"
+   ],
+   [
+    "Tesch",
+    "Deanna"
+   ],
+   [
+    "Van Niel",
+    "Guillaume"
+   ],
+   [
+    "Vandenbroucke",
+    "Roosmarijn E."
+   ],
+   [
+    "Verweij",
+    "Frederik J."
+   ],
+   [
+    "Villar",
+    "Ana V."
+   ],
+   [
+    "Wauben",
+    "Marca"
+   ],
+   [
+    "Wehman",
+    "Ann M."
+   ],
+   [
+    "Yin",
+    "Hang"
+   ],
+   [
+    "Carter",
+    "David Raul Francisco"
+   ],
+   [
+    "Vader",
+    "Pieter"
+   ]
+  ],
+  "nauth": 37,
+  "pmid": "31762963"
+ },
+ "chevillet2014": {
+  "doi": "10.1073/pnas.1408301111",
+  "title": "Quantitative and stoichiometric analysis of the microRNA content of exosomes",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2014,
+  "vol": "111",
+  "issue": "41",
+  "page": "14888-14893",
+  "authors": [
+   [
+    "Chevillet",
+    "John R."
+   ],
+   [
+    "Kang",
+    "Qing"
+   ],
+   [
+    "Ruf",
+    "Ingrid K."
+   ],
+   [
+    "Briggs",
+    "Hilary A."
+   ],
+   [
+    "Vojtech",
+    "Lucia N."
+   ],
+   [
+    "Hughes",
+    "Sean M."
+   ],
+   [
+    "Cheng",
+    "Heather H."
+   ],
+   [
+    "Arroyo",
+    "Jason D."
+   ],
+   [
+    "Meredith",
+    "Emily K."
+   ],
+   [
+    "Gallichotte",
+    "Emily N."
+   ],
+   [
+    "Pogosova-Agadjanyan",
+    "Era L."
+   ],
+   [
+    "Morrissey",
+    "Colm"
+   ],
+   [
+    "Stirewalt",
+    "Derek L."
+   ],
+   [
+    "Hladik",
+    "Florian"
+   ],
+   [
+    "Yu",
+    "Evan Y."
+   ],
+   [
+    "Higano",
+    "Celestia S."
+   ],
+   [
+    "Tewari",
+    "Muneesh"
+   ]
+  ],
+  "nauth": 17,
+  "pmid": "25267620"
+ },
+ "lener2015": {
+  "doi": "10.3402/jev.v4.30087",
+  "title": "Applying extracellular vesicles based therapeutics in clinical trials – an ISEV position paper",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2015,
+  "vol": "4",
+  "issue": "1",
+  "page": "30087",
+  "authors": [
+   [
+    "Lener",
+    "Thomas"
+   ],
+   [
+    "Gimona",
+    "Mario"
+   ],
+   [
+    "Aigner",
+    "Ludwig"
+   ],
+   [
+    "Börger",
+    "Verena"
+   ],
+   [
+    "Buzas",
+    "Edit"
+   ],
+   [
+    "Camussi",
+    "Giovanni"
+   ],
+   [
+    "Chaput",
+    "Nathalie"
+   ],
+   [
+    "Chatterjee",
+    "Devasis"
+   ],
+   [
+    "Court",
+    "Felipe A."
+   ],
+   [
+    "del Portillo",
+    "Hernando A."
+   ],
+   [
+    "O'Driscoll",
+    "Lorraine"
+   ],
+   [
+    "Fais",
+    "Stefano"
+   ],
+   [
+    "Falcon‐Perez",
+    "Juan M."
+   ],
+   [
+    "Felderhoff‐Mueser",
+    "Ursula"
+   ],
+   [
+    "Fraile",
+    "Lorenzo"
+   ],
+   [
+    "Gho",
+    "Yong Song"
+   ],
+   [
+    "Görgens",
+    "André"
+   ],
+   [
+    "Gupta",
+    "Ramesh C."
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Hermann",
+    "Dirk M."
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ],
+   [
+    "Hochberg",
+    "Fred"
+   ],
+   [
+    "Horn",
+    "Peter A."
+   ],
+   [
+    "de Kleijn",
+    "Dominique"
+   ],
+   [
+    "Kordelas",
+    "Lambros"
+   ],
+   [
+    "Kramer",
+    "Boris W."
+   ],
+   [
+    "Krämer‐Albers",
+    "Eva‐Maria"
+   ],
+   [
+    "Laner‐Plamberger",
+    "Sandra"
+   ],
+   [
+    "Laitinen",
+    "Saara"
+   ],
+   [
+    "Leonardi",
+    "Tommaso"
+   ],
+   [
+    "Lorenowicz",
+    "Magdalena J."
+   ],
+   [
+    "Lim",
+    "Sai Kiang"
+   ],
+   [
+    "Lötvall",
+    "Jan"
+   ],
+   [
+    "Maguire",
+    "Casey A."
+   ],
+   [
+    "Marcilla",
+    "Antonio"
+   ],
+   [
+    "Nazarenko",
+    "Irina"
+   ],
+   [
+    "Ochiya",
+    "Takahiro"
+   ],
+   [
+    "Patel",
+    "Tushar"
+   ],
+   [
+    "Pedersen",
+    "Shona"
+   ],
+   [
+    "Pocsfalvi",
+    "Gabriella"
+   ],
+   [
+    "Pluchino",
+    "Stefano"
+   ],
+   [
+    "Quesenberry",
+    "Peter"
+   ],
+   [
+    "Reischl",
+    "Ilona G."
+   ],
+   [
+    "Rivera",
+    "Francisco J."
+   ],
+   [
+    "Sanzenbacher",
+    "Ralf"
+   ],
+   [
+    "Schallmoser",
+    "Katharina"
+   ],
+   [
+    "Slaper‐Cortenbach",
+    "Ineke"
+   ],
+   [
+    "Strunk",
+    "Dirk"
+   ],
+   [
+    "Tonn",
+    "Torsten"
+   ],
+   [
+    "Vader",
+    "Pieter"
+   ],
+   [
+    "van Balkom",
+    "Bas W. M."
+   ],
+   [
+    "Wauben",
+    "Marca"
+   ],
+   [
+    "Andaloussi",
+    "Samir El"
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Rohde",
+    "Eva"
+   ],
+   [
+    "Giebel",
+    "Bernd"
+   ]
+  ],
+  "nauth": 56,
+  "pmid": "26725829"
+ },
+ "vogel2011": {
+  "doi": "10.1021/ac200195n",
+  "title": "Quantitative Sizing of Nano/Microparticles with a Tunable Elastomeric Pore Sensor",
+  "journal": "Analytical Chemistry",
+  "year": 2011,
+  "vol": "83",
+  "issue": "9",
+  "page": "3499-3506",
+  "authors": [
+   [
+    "Vogel",
+    "Robert"
+   ],
+   [
+    "Willmott",
+    "Geoff"
+   ],
+   [
+    "Kozak",
+    "Darby"
+   ],
+   [
+    "Roberts",
+    "G. Seth"
+   ],
+   [
+    "Anderson",
+    "Will"
+   ],
+   [
+    "Groenewegen",
+    "Linda"
+   ],
+   [
+    "Glossop",
+    "Ben"
+   ],
+   [
+    "Barnett",
+    "Anne"
+   ],
+   [
+    "Turner",
+    "Ali"
+   ],
+   [
+    "Trau",
+    "Matt"
+   ]
+  ],
+  "nauth": 10,
+  "pmid": "21434639"
+ },
+ "yuana2013": {
+  "doi": "10.3402/jev.v2i0.21494",
+  "title": "Cryo‐electron microscopy of extracellular vesicles in fresh plasma",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2013,
+  "vol": "2",
+  "issue": "1",
+  "page": "21494",
+  "authors": [
+   [
+    "Yuana",
+    "Yuana"
+   ],
+   [
+    "Koning",
+    "Roman I."
+   ],
+   [
+    "Kuil",
+    "Maxim E."
+   ],
+   [
+    "Rensen",
+    "Patrick C. N."
+   ],
+   [
+    "Koster",
+    "Abraham J."
+   ],
+   [
+    "Bertina",
+    "Rogier M"
+   ],
+   [
+    "Osanto",
+    "Susanne"
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "24455109"
+ },
+ "arraud2014": {
+  "doi": "10.1111/jth.12554",
+  "title": "Extracellular vesicles from blood plasma: determination of their morphology, size, phenotype and concentration",
+  "journal": "Journal of Thrombosis and Haemostasis",
+  "year": 2014,
+  "vol": "12",
+  "issue": "5",
+  "page": "614-627",
+  "authors": [
+   [
+    "Arraud",
+    "N."
+   ],
+   [
+    "Linares",
+    "R."
+   ],
+   [
+    "Tan",
+    "S."
+   ],
+   [
+    "Gounou",
+    "C."
+   ],
+   [
+    "Pasquet",
+    "J.‐M."
+   ],
+   [
+    "Mornet",
+    "S."
+   ],
+   [
+    "Brisson",
+    "A.R."
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "24618123"
+ },
+ "tauro2012": {
+  "doi": "10.1016/j.ymeth.2012.01.002",
+  "title": "Comparison of ultracentrifugation, density gradient separation, and immunoaffinity capture methods for isolating human colon cancer cell line LIM1863-derived exosomes",
+  "journal": "Methods",
+  "year": 2012,
+  "vol": "56",
+  "issue": "2",
+  "page": "293-304",
+  "authors": [
+   [
+    "Tauro",
+    "Bow J."
+   ],
+   [
+    "Greening",
+    "David W."
+   ],
+   [
+    "Mathias",
+    "Rommel A."
+   ],
+   [
+    "Ji",
+    "Hong"
+   ],
+   [
+    "Mathivanan",
+    "Suresh"
+   ],
+   [
+    "Scott",
+    "Andrew M."
+   ],
+   [
+    "Simpson",
+    "Richard J."
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "22285593"
+ },
+ "liga2015": {
+  "doi": "10.1039/c5lc00240k",
+  "title": "Exosome isolation: a microfluidic road-map",
+  "journal": "Lab on a Chip",
+  "year": 2015,
+  "vol": "15",
+  "issue": "11",
+  "page": "2388-2394",
+  "authors": [
+   [
+    "Liga",
+    "A."
+   ],
+   [
+    "Vliegenthart",
+    "A. D. B."
+   ],
+   [
+    "Oosthuyzen",
+    "W."
+   ],
+   [
+    "Dear",
+    "J. W."
+   ],
+   [
+    "Kersaudy-Kerhoas",
+    "M."
+   ]
+  ],
+  "nauth": 5,
+  "pmid": "25940789"
+ },
+ "wu2017": {
+  "doi": "10.1073/pnas.1709210114",
+  "title": "Isolation of exosomes from whole blood by integrating acoustics and microfluidics",
+  "journal": "Proceedings of the National Academy of Sciences",
+  "year": 2017,
+  "vol": "114",
+  "issue": "40",
+  "page": "10584-10589",
+  "authors": [
+   [
+    "Wu",
+    "Mengxi"
+   ],
+   [
+    "Ouyang",
+    "Yingshi"
+   ],
+   [
+    "Wang",
+    "Zeyu"
+   ],
+   [
+    "Zhang",
+    "Rui"
+   ],
+   [
+    "Huang",
+    "Po-Hsun"
+   ],
+   [
+    "Chen",
+    "Chuyi"
+   ],
+   [
+    "Li",
+    "Hui"
+   ],
+   [
+    "Li",
+    "Peng"
+   ],
+   [
+    "Quinn",
+    "David"
+   ],
+   [
+    "Dao",
+    "Ming"
+   ],
+   [
+    "Suresh",
+    "Subra"
+   ],
+   [
+    "Sadovsky",
+    "Yoel"
+   ],
+   [
+    "Huang",
+    "Tony Jun"
+   ]
+  ],
+  "nauth": 13,
+  "pmid": "28923936"
+ },
+ "erdbrugger2021": {
+  "doi": "10.1002/jev2.12093",
+  "title": "Urinary extracellular vesicles: A position paper by the Urine Task Force of the International Society for Extracellular Vesicles",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2021,
+  "vol": "10",
+  "issue": "7",
+  "page": "e12093",
+  "authors": [
+   [
+    "Erdbrügger",
+    "Uta"
+   ],
+   [
+    "Blijdorp",
+    "Charles J."
+   ],
+   [
+    "Bijnsdorp",
+    "Irene V."
+   ],
+   [
+    "Borràs",
+    "Francesc E."
+   ],
+   [
+    "Burger",
+    "Dylan"
+   ],
+   [
+    "Bussolati",
+    "Benedetta"
+   ],
+   [
+    "Byrd",
+    "James Brian"
+   ],
+   [
+    "Clayton",
+    "Aled"
+   ],
+   [
+    "Dear",
+    "James W."
+   ],
+   [
+    "Falcón‐Pérez",
+    "Juan M."
+   ],
+   [
+    "Grange",
+    "Cristina"
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ],
+   [
+    "Holthöfer",
+    "Harry"
+   ],
+   [
+    "Hoorn",
+    "Ewout J."
+   ],
+   [
+    "Jenster",
+    "Guido"
+   ],
+   [
+    "Jimenez",
+    "Connie R."
+   ],
+   [
+    "Junker",
+    "Kerstin"
+   ],
+   [
+    "Klein",
+    "John"
+   ],
+   [
+    "Knepper",
+    "Mark A."
+   ],
+   [
+    "Koritzinsky",
+    "Erik H."
+   ],
+   [
+    "Luther",
+    "James M."
+   ],
+   [
+    "Lenassi",
+    "Metka"
+   ],
+   [
+    "Leivo",
+    "Janne"
+   ],
+   [
+    "Mertens",
+    "Inge"
+   ],
+   [
+    "Musante",
+    "Luca"
+   ],
+   [
+    "Oeyen",
+    "Eline"
+   ],
+   [
+    "Puhka",
+    "Maija"
+   ],
+   [
+    "van Royen",
+    "Martin E."
+   ],
+   [
+    "Sánchez",
+    "Catherine"
+   ],
+   [
+    "Soekmadji",
+    "Carolina"
+   ],
+   [
+    "Thongboonkerd",
+    "Visith"
+   ],
+   [
+    "van Steijn",
+    "Volkert"
+   ],
+   [
+    "Verhaegh",
+    "Gerald"
+   ],
+   [
+    "Webber",
+    "Jason P."
+   ],
+   [
+    "Witwer",
+    "Kenneth"
+   ],
+   [
+    "Yuen",
+    "Peter S.T."
+   ],
+   [
+    "Zheng",
+    "Lei"
+   ],
+   [
+    "Llorente",
+    "Alicia"
+   ],
+   [
+    "Martens‐Uzunova",
+    "Elena S."
+   ]
+  ],
+  "nauth": 39,
+  "pmid": "34035881"
+ },
+ "lucien2023": {
+  "doi": "10.1002/jev2.12385",
+  "title": "MIBlood‐EV: Minimal information to enhance the quality and reproducibility of blood extracellular vesicle research",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2023,
+  "vol": "12",
+  "issue": "12",
+  "page": "12385",
+  "authors": [
+   [
+    "Lucien",
+    "Fabrice"
+   ],
+   [
+    "Gustafson",
+    "Dakota"
+   ],
+   [
+    "Lenassi",
+    "Metka"
+   ],
+   [
+    "Li",
+    "Bo"
+   ],
+   [
+    "Teske",
+    "Jacob J."
+   ],
+   [
+    "Boilard",
+    "Eric"
+   ],
+   [
+    "von Hohenberg",
+    "Katharina Clemm"
+   ],
+   [
+    "Falcón‐Perez",
+    "Juan Manual"
+   ],
+   [
+    "Gualerzi",
+    "Alice"
+   ],
+   [
+    "Reale",
+    "Antonia"
+   ],
+   [
+    "Jones",
+    "Jennifer C."
+   ],
+   [
+    "Lässer",
+    "Cecilia"
+   ],
+   [
+    "Lawson",
+    "Charlotte"
+   ],
+   [
+    "Nazarenko",
+    "Irina"
+   ],
+   [
+    "O'Driscoll",
+    "Lorraine"
+   ],
+   [
+    "Pink",
+    "Ryan"
+   ],
+   [
+    "Siljander",
+    "Pia R‐M"
+   ],
+   [
+    "Soekmadji",
+    "Carolina"
+   ],
+   [
+    "Hendrix",
+    "An"
+   ],
+   [
+    "Welsh",
+    "Joshua A"
+   ],
+   [
+    "Witwer",
+    "Kenneth W."
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ]
+  ],
+  "nauth": 22,
+  "pmid": "38063210"
+ },
+ "gardiner2016": {
+  "doi": "10.3402/jev.v5.32945",
+  "title": "Techniques used for the isolation and characterization of extracellular vesicles: results of a worldwide survey",
+  "journal": "Journal of Extracellular Vesicles",
+  "year": 2016,
+  "vol": "5",
+  "issue": "1",
+  "page": "32945",
+  "authors": [
+   [
+    "Gardiner",
+    "Chris"
+   ],
+   [
+    "Di Vizio",
+    "Dolores"
+   ],
+   [
+    "Sahoo",
+    "Susmita"
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Witwer",
+    "Kenneth W."
+   ],
+   [
+    "Wauben",
+    "Marca"
+   ],
+   [
+    "Hill",
+    "Andrew F."
+   ]
+  ],
+  "nauth": 7,
+  "pmid": "27802845"
+ },
+ "royo2020": {
+  "doi": "10.3390/cells9091955",
+  "title": "Methods for Separation and Characterization of Extracellular Vesicles: Results of a Worldwide Survey Performed by the ISEV Rigor and Standardization Subcommittee",
+  "journal": "Cells",
+  "year": 2020,
+  "vol": "9",
+  "issue": "9",
+  "page": "1955",
+  "authors": [
+   [
+    "Royo",
+    "Felix"
+   ],
+   [
+    "Théry",
+    "Clotilde"
+   ],
+   [
+    "Falcón-Pérez",
+    "Juan M."
+   ],
+   [
+    "Nieuwland",
+    "Rienk"
+   ],
+   [
+    "Witwer",
+    "Kenneth W."
+   ]
+  ],
+  "nauth": 5,
+  "pmid": "32854228"
+ }
+}

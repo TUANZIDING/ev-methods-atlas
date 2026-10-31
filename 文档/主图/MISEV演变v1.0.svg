@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 560" width="1180" height="560" font-family="PingFang SC, 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif">
+<title>MISEV 指南三版演变</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7faf9"/><stop offset="1" stop-color="#eef4f3"/></linearGradient>
+  <filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1b4b4e" flood-opacity="0.12"/></filter>
+  <radialGradient id="ev" cx="0.35" cy="0.35" r="0.7"><stop offset="0" stop-color="#e9f6f5"/><stop offset="1" stop-color="#7cc0c2"/></radialGradient>
+</defs>
+<rect width="1180" height="560" rx="18" fill="url(#bg)"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#18484b">MISEV 指南三版演变</text>
+<text x="40" y="82" font-size="15" fill="#5c6b70">要点均核对自 Europe PMC 全文（PMC4275645 · PMC6322352 · PMC10850029）</text>
+<rect x="40" y="110" width="353" height="400" rx="16" fill="#fff" stroke="#d3e2e1" filter="url(#sh)"/>
+<rect x="40" y="110" width="353" height="70" rx="16" fill="#7fb7b9"/><rect x="40" y="160" width="353" height="20" fill="#7fb7b9"/>
+<text x="62" y="147" font-size="24" font-weight="700" fill="#fff">MISEV2014</text>
+<text x="62" y="170" font-size="13" fill="#eaf6f5">Lötvall 等 · JEV 2014</text>
+<circle cx="68" cy="213" r="5" fill="#7fb7b9"/>
+<text x="82" y="218" font-size="14.5" fill="#253338">“EV” 作为统称，“exosome” 被称为流行词</text>
+<circle cx="68" cy="259" r="5" fill="#7fb7b9"/>
+<text x="82" y="264" font-size="14.5" fill="#253338">≥3 个蛋白半定量；第1/2/3类各≥1</text>
+<circle cx="68" cy="305" r="5" fill="#7fb7b9"/>
+<text x="82" y="310" font-size="14.5" fill="#253338">单囊泡表征 ≥2 种技术</text>
+<circle cx="68" cy="351" r="5" fill="#7fb7b9"/>
+<text x="82" y="356" font-size="14.5" fill="#253338">提出功能研究的对照</text>
+<path d="M396 300 l14 10 l-14 10 z" fill="#3f9a9f"/>
+<rect x="413" y="110" width="353" height="400" rx="16" fill="#fff" stroke="#d3e2e1" filter="url(#sh)"/>
+<rect x="413" y="110" width="353" height="70" rx="16" fill="#3f9a9f"/><rect x="413" y="160" width="353" height="20" fill="#3f9a9f"/>
+<text x="435" y="147" font-size="24" font-weight="700" fill="#fff">MISEV2018</text>
+<text x="435" y="170" font-size="13" fill="#eaf6f5">Théry 等 · JEV 2018</text>
+<circle cx="441" cy="213" r="5" fill="#3f9a9f"/>
+<text x="455" y="218" font-size="14.5" fill="#253338">ISEV 推荐通用词 “EV”</text>
+<circle cx="441" cy="259" r="5" fill="#3f9a9f"/>
+<text x="455" y="264" font-size="14.5" fill="#253338">操作性术语：大小、密度、标志物、来源</text>
+<circle cx="441" cy="305" r="5" fill="#3f9a9f"/>
+<text x="455" y="310" font-size="14.5" fill="#253338">五类蛋白框架；不再推荐通用阴性对照</text>
+<circle cx="441" cy="351" r="5" fill="#3f9a9f"/>
+<text x="455" y="356" font-size="14.5" fill="#253338">回收率×特异性网格；建议上传 EV-TRACK</text>
+<circle cx="441" cy="397" r="5" fill="#3f9a9f"/>
+<text x="455" y="402" font-size="14.5" fill="#253338">核查清单 checklist</text>
+<path d="M770 300 l14 10 l-14 10 z" fill="#1f6f74"/>
+<rect x="787" y="110" width="353" height="400" rx="16" fill="#fff" stroke="#d3e2e1" filter="url(#sh)"/>
+<rect x="787" y="110" width="353" height="70" rx="16" fill="#1f6f74"/><rect x="787" y="160" width="353" height="20" fill="#1f6f74"/>
+<text x="809" y="147" font-size="24" font-weight="700" fill="#fff">MISEV2023</text>
+<text x="809" y="170" font-size="13" fill="#eaf6f5">Welsh 等 · JEV 2024</text>
+<circle cx="815" cy="213" r="5" fill="#1f6f74"/>
+<text x="829" y="218" font-size="14.5" fill="#253338">新增 EP（细胞外颗粒）与 NVEP</text>
+<circle cx="815" cy="259" r="5" fill="#1f6f74"/>
+<text x="829" y="264" font-size="14.5" fill="#253338">不鼓励 exosome/ectosome，除非证明来源</text>
+<circle cx="815" cy="305" r="5" fill="#1f6f74"/>
+<text x="829" y="310" font-size="14.5" fill="#253338">sEV ≠ 外泌体；200 nm 分界无严格共识</text>
+<circle cx="815" cy="351" r="5" fill="#1f6f74"/>
+<text x="829" y="356" font-size="14.5" fill="#253338">无通用 EV 标志物；正交方法</text>
+<circle cx="815" cy="397" r="5" fill="#1f6f74"/>
+<text x="829" y="402" font-size="14.5" fill="#253338">按来源分章：血液、尿液、组织、细菌等</text>
+<circle cx="815" cy="443" r="5" fill="#1f6f74"/>
+<text x="829" y="448" font-size="14.5" fill="#253338">新增：释放与摄取、体内研究、报告要点</text>
+<text x="40" y="538" font-size="13" fill="#5c6b70">MISEV2023 原文：此前建议“在很大程度上或完全仍然有效”，应结合前两版一起阅读。</text>
+</svg>

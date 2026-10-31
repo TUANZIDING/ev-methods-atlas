@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 670" width="980" height="670" font-family="PingFang SC, 'Noto Sans SC', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif">
+<title>回收率与特异性网格</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7faf9"/><stop offset="1" stop-color="#eef4f3"/></linearGradient>
+  <filter id="sh" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#1b4b4e" flood-opacity="0.12"/></filter>
+  <radialGradient id="ev" cx="0.35" cy="0.35" r="0.7"><stop offset="0" stop-color="#e9f6f5"/><stop offset="1" stop-color="#7cc0c2"/></radialGradient>
+</defs>
+<rect width="980" height="670" rx="18" fill="url(#bg)"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#18484b">回收率 × 特异性：没有两全的分离方法</text>
+<text x="40" y="82" font-size="15" fill="#5c6b70">Recovery vs specificity grid · 依据 MISEV2018（Théry 2018）· 位置为定性示意，随参数与样本变化</text>
+<rect x="130" y="110" width="770" height="450" rx="14" fill="#ffffff" stroke="#c9d9d9" filter="url(#sh)"/>
+<line x1="515.0" y1="110" x2="515.0" y2="560" stroke="#dbe6e5" stroke-dasharray="6 6"/><line x1="130" y1="335.0" x2="900" y2="335.0" stroke="#dbe6e5" stroke-dasharray="6 6"/>
+<text x="886" y="140" text-anchor="end" font-size="15" fill="#a0632a" font-weight="600">高回收 + 高特异：目前可能无法实现</text>
+<text x="515.0" y="594" text-anchor="middle" font-size="16" fill="#18484b" font-weight="600">回收率 Recovery →</text>
+<text x="74" y="335.0" text-anchor="middle" font-size="16" fill="#18484b" font-weight="600" transform="rotate(-90 74 335.0)">特异性 Specificity →</text>
+<circle cx="763" cy="476" r="9" fill="#c58b5a" stroke="#fff" stroke-width="2.5"/>
+<rect x="539" y="462" width="210" height="28" rx="14" fill="#fff" stroke="#c58b5a" stroke-opacity="0.5"/>
+<text x="552" y="481" font-size="15" fill="#253338">聚合物沉淀 / PEG 试剂盒</text>
+<circle cx="708" cy="446" r="9" fill="#c58b5a" stroke="#fff" stroke-width="2.5"/>
+<rect x="524" y="432" width="171" height="28" rx="14" fill="#fff" stroke="#c58b5a" stroke-opacity="0.5"/>
+<text x="537" y="451" font-size="15" fill="#253338">超滤 / TFF（单用）</text>
+<circle cx="515" cy="354" r="9" fill="#2f8f94" stroke="#fff" stroke-width="2.5"/>
+<rect x="529" y="340" width="122" height="28" rx="14" fill="#fff" stroke="#2f8f94" stroke-opacity="0.5"/>
+<text x="542" y="358" font-size="15" fill="#253338">差速超离 dUC</text>
+<circle cx="584" cy="316" r="9" fill="#2f8f94" stroke="#fff" stroke-width="2.5"/>
+<rect x="598" y="302" width="122" height="28" rx="14" fill="#fff" stroke="#2f8f94" stroke-opacity="0.5"/>
+<text x="611" y="322" font-size="15" fill="#253338">尺寸排阻 SEC</text>
+<circle cx="377" cy="239" r="9" fill="#3f6fa3" stroke="#fff" stroke-width="2.5"/>
+<rect x="391" y="225" width="122" height="28" rx="14" fill="#fff" stroke="#3f6fa3" stroke-opacity="0.5"/>
+<text x="404" y="244" font-size="15" fill="#253338">密度梯度 DGC</text>
+<circle cx="211" cy="176" r="9" fill="#3f6fa3" stroke="#fff" stroke-width="2.5"/>
+<rect x="225" y="162" width="150" height="28" rx="14" fill="#fff" stroke="#3f6fa3" stroke-opacity="0.5"/>
+<text x="238" y="181" font-size="15" fill="#253338">免疫亲和（亚群）</text>
+<circle cx="280" cy="283" r="9" fill="#3f6fa3" stroke="#fff" stroke-width="2.5"/>
+<rect x="294" y="269" width="52" height="28" rx="14" fill="#fff" stroke="#3f6fa3" stroke-opacity="0.5"/>
+<text x="307" y="288" font-size="15" fill="#253338">AF4</text>
+<circle cx="487" cy="187" r="9" fill="#6d4ea0" stroke="#fff" stroke-width="2.5"/>
+<rect x="501" y="173" width="140" height="28" rx="14" fill="#fff" stroke="#6d4ea0" stroke-opacity="0.5"/>
+<text x="514" y="192" font-size="15" fill="#253338">SEC + 密度梯度</text>
+<circle cx="694" cy="276" r="9" fill="#6d4ea0" stroke="#fff" stroke-width="2.5"/>
+<rect x="708" y="262" width="129" height="28" rx="14" fill="#fff" stroke="#6d4ea0" stroke-opacity="0.5"/>
+<text x="721" y="281" font-size="15" fill="#253338">UF/TFF → SEC</text>
+<text x="130" y="648" font-size="13" fill="#5c6b70">紫色 = 组合策略。MISEV2018 把方法分为：高回收低特异 / 中等 / 低回收高特异 / 高回收高特异（可能尚无法实现）。</text>
+</svg>
